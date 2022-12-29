@@ -4,22 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="styles.css" />
     <script defer type="module" src="script.js"></script>
+   
     <title>RMIT: Kangaroos Team</title>
 </head>
 <body>
-    
+   <div id="width"><span></span></div> 
 
     <div class="navbar" id="nav">
-        <a id="kangaroo_team_profiles" href="#">Kangaroo Team Profiles</a>
-        <a id="it_interests" href="#1">IT Interests</a>
-        <a id="career_profiling"href="#2">Career Profiling</a>
-        <a id="it_technologies"href="#3">IT Technologies</a>
-        <a id="team_project"href="#4">Team Project</a>
-        <a id="meetings"href="#4">Meetings</a>
-        <a id="team_reflections"href="#4">Team Reflections</a>
-        <a id="contacts"href="#4">Contacts</a>
+      
+        <a  class="hide" id="kangaroo_team_profiles" href="#">Kangaroo Team Profiles</a>
+        <a  class="hide" id="it_interests" href="#1">IT Interests</a>
+        <a  class="hide" id="career_profiling"href="#2">Career Profiling</a>
+        <a  class="hide" id="it_technologies"href="#3">IT Technologies</a>
+        <a  class="hide" id="team_project"href="#4">Team Project</a>
+        <a  class="hide"  id="meetings"href="#4">Meetings</a>
+        <a  class="hide" id="team_reflections"href="#4">Team Reflections</a>
+        <a  class="hide" id="contacts"href="#4">Contacts</a>
+       
+        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="nav()">&#9776;</a>
+          </a>
         
    
        
@@ -28,19 +34,26 @@
     <div class ="container">
 
         <div class="itemA">
+            
             <div id="display_text"></div>
         </div>
+        
     </div>
 
 
       <div class="footer">
         <footer>  
-            <p>Author: Kangaroos Team: RMIT</p>
-            <p><a href="mailto:S3973475@student.rmit.edu.au">S3973475@student.rmit.edu.au</a></p>
+            <p>Authors: Kangaroos Team: RMIT</p>
+           
  
         </footer>
     </div>
 
 
+
+  
+    <script src="nav.js" type="text/javascript" />     
 </body>
+
+
 </html>
