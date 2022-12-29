@@ -1,0 +1,176 @@
+:root {
+    --navbar_bar:rgb(115, 166, 218);
+    --hover_background:white;
+    --navbar_text:white;
+    --navbar_active:black;
+    --header_bar:rgb(42, 42, 58);
+    --footer_text:white;
+    --footer_bar:rgb(115, 166, 218);
+    --drop_shadows:black;
+    --back_ground:rgb(219, 230, 250);
+    --container:white;
+    --hover:black;
+    --back_box_l:rgb(220, 250, 252);
+    --back_box_2:rgb(211, 225, 233);
+}
+
+body {
+  margin:0;
+  padding:0;
+  background-color: var(--back_ground);
+  font-family: Tahoma, Verdana, sans-serif;
+  
+    
+}
+
+.navbar {
+  display:flex;
+  position:fixed;
+  width:100%;
+  top:0;
+  background-color: var(--navbar_bar);
+  justify-content:space-evenly;
+  flex-wrap: nowrap;
+  margin: 0px;
+  padding:0px;
+  box-shadow: 0px 5px 10px var(--drop_shadows); 
+  font-family: Tahoma, Verdana, sans-serif; 
+  }
+  
+
+  .navbar a {
+    text-align: center;
+    color: var(--navbar_text);
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  
+ 
+  .navbar a:hover {
+    background-color: var(--hover_background);;
+    transition: all 0.9s ease 0.2s;
+    color: var(--hover); 
+    
+  }
+  
+ 
+  .navbar a.active {
+    color: var(--navbar_active);
+  }
+
+
+  #display_text{
+    margin:10px;
+    font-size: 16px;
+    text-align: justify;
+  }
+
+
+.container{
+  display:flex;
+  margin-top: 80px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  background-color: var(--container);
+  border-radius: 5px;
+  margin-bottom: 80px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  
+}
+
+.container:hover{
+  box-shadow: 0 9px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.item{
+  flex:20%;
+  
+  background-color: var(--back_box_l);
+  text-align: justify;
+  margin: 0px 10px 10px 0px;
+  padding: 20px;
+  text-align: left;
+  box-shadow: 0px 5px 10px var(--drop_shadows); 
+}
+
+
+.itemA {
+  
+  display:flex;
+  background-color: Var(--back_box_2);
+  text-align: justify;
+  margin: 0px 0px 10px 0px;
+  padding: 20px;
+  text-align: left; 
+  box-shadow: 0px 5px 10px var(--drop_shadows); 
+}
+
+.item h2 {
+  text-align: left;
+}
+
+
+
+img {
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 0px 5px 5px var(--drop_shadows);
+  width:100%;
+  align-items: center;
+  max-width: 300px;
+}
+
+img:hover {
+  box-shadow: 0px 5px 5px var(--drop_shadows);
+}
+
+.footer {   
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--footer_bar);
+  color: var(--footer_text);
+  text-align: center;
+  margin-bottom: 1px;
+  margin-top: 10px;
+  box-shadow: -0px -5px 5px var(--drop_shadows);
+  font-family: Tahoma, Verdana, sans-serif;
+    }
+
+.footer p{
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0px;
+  padding:2px;
+  
+}
+.footer a {
+  color: var(--footer_text);
+    }
+
+
+    /* If screen size is more than 600px wide, set the font-size of <div> to 80px */
+@media screen and (min-width: 600px) {
+
+}
+
+/* If screen size is 600px wide, or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  #display_text {
+    font-size: 10px;
+  }
+  #s_text{
+    font-size: 10px;
+  }
+  .navbar a{
+    font-size: 12px;
+  }
+ 
+}
