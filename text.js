@@ -1,7 +1,11 @@
 export let kangaroo_team_profiles = 
 "<h1>Kangaroo Team Profiles</h1>" + 
-"<h2>Summary text</h2>" +
-"<p>text here</p>"+
+"<h2>Our team has come together and much like the animal, we represent a team moving forward. We are looking towards the future of the IT industry and how it shapes our lives. Being part of RMIT and its history binds our team to its rich history and that of Melbourne and more broadly Australia, our team's name reflects those connections.  </h2>" +
+"<p>The word ‘kangaroo’ comes from the Guugu Yimidhirr people sharing the word ‘gangurru’ with James Cook and the crew of the Endeavour in 1770. Emblematic of Australia’s unique wildlife, the kangaroo is part of the coat of arms, is seen in various logos and is a mascot at international sporting events. </p>"+
+
+
+
+
 
 "<h1>John Gude</h1>" + 
 "<p>The folllowing personality type profile tests were carried out</p>"+
