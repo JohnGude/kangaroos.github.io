@@ -118,23 +118,32 @@ export let kangaroo_team_profiles =
 "<hr>"+
 
 "<h2>Tatsuya Rood'e</h2>" + 
+
+"<img src='./TR_picme.jpg'></img>"+
+"<h2>Tatsuya Rood'e</h2>" +
+"<p>Student Number: S3845434 </p>"+
+"<p>Student email Address: <a href='mailto:S3845434@student.rmit.edu.au'>S3845434@student.rmit.edu.au</a></p>"+
+"<p>Hello, my name is Tatsuya Rood’E, but everyone calls me Tats and a proud member of The Kangaroos. A little about me, I am half Japanese and half Australian. I have completed high school up until grade twelve and received a cert three in hospitality. My main language is English but currently learning Japanese to connect with family. From a young age I have always had a passion to create or improve. The first time I was exposed to Lego I was amazed, as it allowed me to create anything my imagination so desired. My hobbies include anything outdoors as well as computer games. The main interest in IT for me is the ability to create and improve. Within my own time Python allowed me to experiment and create little projects to better understand how the digital world works. An example of some of the projects I created was, a simple jumping game, password generator and a functioning clock.</p>"+
+
 "<p>The following personality type profile tests were carried out</p>"+
 "<ol>"+
 "<li><a href='https://www.16personalities.com/'>16personalities: Myers-Briggs Type Indicator (MBTI)</a></li>"+
-"<li><a href='https://www.seemypersonality.com/'>seemy personality test</a></li>"+
-"<li><a href='https://www.123test.com/disc-personality-test/'>123 test disc personality test</a></li>"+
+"<li><a href='http://www.educationplanner.org/'>Education Planner</a></li>"+
+"<li><a href='https://www.truity.com/'>Truity</a></li>"+
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_mbrigs.PNG'></div>"+
+"<p>After reviewing the results its concluded that all three tests were relatively accurate towards my personality and work style. While the tests were true in some parts, it was inaccurate in other areas. The results of the Myers Brig test shows that I am an Advocate (INFJ-T). According to Myers-Briggs an advocate’s strengths are creative, insightful, principled, passionate, and altruistic. Through self-evaluation an advocate’s strengths do match my strengths. An advocate’s weaknesses are sensitive to criticism, reluctant to open up, perfectionistic, avoiding the ordinary, and prone to burnout. One aspect of the results I disagree with in the Myer-Briggs test is that advocates are perfectionistic. While I do believe its important to put in one hundred percent effort into my work, I do realize that we do not live in a perfect world and not everything can be perfect.</p>"+
+"<div><img src='./TR_Briggs.PNG'></div>"+
 
-"<h4>Seemy personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_seemly.PNG'></div>"+
+"<h4>Education Planner</h4>" +
+"<p>The results from the learning style test shows that I am predominantly a visual learner. Upon self-reflection this can be stated as true as I find that visually seeing a solution or problem helps me remember easier and understand the topic at hand. </p>"+
+"<div><img src='./TR_learningS.PNG'></div>"+
 
-"<h4>123 test disc personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_disk.PNG'></div>"+
+"<h4>Truity</h4>" +
+"<p>Reviewing the results from the Big Five Personality test I can agree that all five personality traits align with mine. It’s essential to know what my strengths and weaknesses are as it helps me understand my limitations on what I can and can’t do. By recognizing my weaknesses and strengths I will be aware of what I can contribute to the team and what parts I may struggle with. Knowing this it will directly influence my behavior towards my team as I would understand my limitations of what I can contribute to the team.</p>"+
+"<div><img src='./TR_BigFive.PNG'></div>"+
+"<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
+
 "<hr>"
 
 
