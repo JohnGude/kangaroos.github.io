@@ -69,7 +69,7 @@ export let kangaroo_team_profiles =
 "<hr>"+
 
 
-"<img src='./xx_photo.jpg'></img>"+
+"<img src='./bt_self.jpg'></img>"+
 "<h2>Benjamin Turner</h2>" +
 "<p>Student Number: S3889042 </p>"+
 "<p>Student email Address: <a href='mailto:s3889042@student.rmit.edu.au'>s3889042@student.rmit.edu.au</a></p>"+
