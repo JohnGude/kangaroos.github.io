@@ -56,7 +56,7 @@ export let kangaroo_team_profiles =
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
 "<p>ENTER TEXT.</p>"+
-"<div><img src='./xx.PNG'></div>"+
+"<div><img src='./nb_myers-briggs.jpg'></div>"+
 
 "<h4>Seemy personality test</h4>" +
 "<p>ENTER TEXT.</p>"+
