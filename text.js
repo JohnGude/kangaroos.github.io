@@ -69,7 +69,7 @@ export let kangaroo_team_profiles =
 "<hr>"+
 
 
-"<img src='./xx_photo.jpg'></img>"+
+"<img src='./bt_self.jpg'></img>"+
 "<h2>Benjamin Turner</h2>" +
 "<p>Student Number: S3889042 </p>"+
 "<p>Student email Address: <a href='mailto:s3889042@student.rmit.edu.au'>s3889042@student.rmit.edu.au</a></p>"+
@@ -79,20 +79,20 @@ export let kangaroo_team_profiles =
 "<p>The following personality type profile tests were carried out</p>"+
 "<ol>"+
 "<li><a href='https://www.16personalities.com/'>16personalities: Myers-Briggs Type Indicator (MBTI)</a></li>"+
-"<li><a href='https://www.seemypersonality.com/'>seemy personality test</a></li>"+
-"<li><a href='https://www.123test.com/disc-personality-test/'>123 test disc personality test</a></li>"+
+"<li><a href='https://vark-learn.com/the-vark-questionnaire/'>VARK Learning Style Questionnaire</a></li>"+
+"<li><a href='https://www.datcreativity.com/'>Divergent Association Task creativity test</a></li>"+
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_mbrigs.PNG'></div>"+
+"<p>My 16 personalities Myers-Briggs result was that of an architect INTJ-T (an imaginative and strategic thinker, with a plan for everything). This personality test provides an accurate diagnosis of the way I behave/work in teams. I prefer smaller teams and collaborating with peers of a similar skill set or experience level and like to be given a little more freedom in my decision making as opposed to being led by a my-way-or-the-highway kind of leader, attributes highlighted in my Myers-Briggs result. </p>"+
+"<div><img src='./bt_16personalities.PNG'></div>"+
 
-"<h4>Seemy personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_seemly.PNG'></div>"+
+"<h4>VARK Learning Style Test</h4>" +
+"<p>My VARK learning style results reflected a preference for a kinaesthetic learning style. Both my current and ideal jobs (data engineer/analyst) are quite hands-on, so the kinaesthetic learning/teaching style works well for me in this setting. I do learn best when given the opportunity to tinker with a problem or new technique at my own pace. </p>"+
+"<div><img src='./bt_vark.PNG'></div>"+
 
-"<h4>123 test disc personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
-"<div><img src='./jg_disk.PNG'></div>"+
+"<h4>Divergent Association Task Creativity Test</h4>" +
+"<p>My Divergent Association Task creativity test was in the top 1.4% of first-time quiz takers, suggesting good creative/alternative thinking patterns. I feel I tend to perform my best or have the most valuable input when jumping in with alternative ideas off someone else’s core plan/system, as reflected in the high score here. That said, the researchers themselves note that the test only reflects one aspect of creativity, one I evidently score well in. </p>"+
+"<div><img src='./bt_dat.PNG'></div>"+
 
 "<hr>"+
 
