@@ -64,7 +64,7 @@ export let kangaroo_team_profiles =
 "<li>Activist: 5</li>"+
 "<li>Reflector: 14</li>"+
 "<li>Pragmatist: 5</li>"+
-"</ul>"
+"</ul>"+
 
 "<p>This suggests that I am most aligned with the theorist and pragmatist learning styles. The theorist style means that one likes to understand the theories behind the actions. They often use tools such as models, concepts and facts to further their learning. The reflector style means that one learns by observing others and reflecting on what happened. They prefer standing back and learning from others, collecting data to work toward their conclusions. </p>"+
 "<div><img src='./xx.PNG'></div>"+
@@ -76,7 +76,7 @@ export let kangaroo_team_profiles =
 "<li>Extraversion 4%</li>"+
 "<li>Agreeableness 73%</li>"+
 "<li>Neuroticism 54%</li>"+
-"</ul>"
+"</ul>"+
 
 "<p>This suggests that I score highest on openness and lowest on extraversion. People with high openness have a tendency to think in abstract and complex ways. People with low extraversion are less socially active and do not often seek “social rewards” such as friendship, admiration, power, status, excitement and romance. This means that they are introverts, which I similarly scored highly on in the Myers-Briggs personality test. </p>"+
 "<div><img src='./xx.PNG'></div>"+
