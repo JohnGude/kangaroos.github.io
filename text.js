@@ -51,19 +51,34 @@ export let kangaroo_team_profiles =
 "<p>The following personality type profile tests were carried out</p>"+
 "<ol>"+
 "<li><a href='https://www.16personalities.com/'>16personalities: Myers-Briggs Type Indicator (MBTI)</a></li>"+
-"<li><a href='https://www.seemypersonality.com/'>seemy personality test</a></li>"+
-"<li><a href='https://www.123test.com/disc-personality-test/'>123 test disc personality test</a></li>"+
+"<li><a href='https://www.mint-hr.com/mumford.html'>Mumford and Honey Learning Styles Test</a></li>"+
+"<li><a href='https://www.truity.com/test/big-five-personality-test'>Big Five Personality Test<a></li>"+
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
-"<p>ENTER TEXT.</p>"+
+"<p>The results of my Myers-Briggs personality test suggest that my personality type is INFJ. This means that I have introverted, intuitive, feeling, and judging personality traits. The 16personalities.com website suggests that this means I am the “Advocate” type. This means I approach things with deep thoughtfulness and imagination. .</p>"+
 "<div><img src='./nb_myers-briggs.jpg'></div>"+
 
-"<h4>Seemy personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
+"<h4>Mumford and Honey Learning Styles Test</h4>" +
+"<ul>"+
+"<li>Theorist: 14</li>"+
+"<li>Activist: 5</li>"+
+"<li>Reflector: 14</li>"+
+"<li>Pragmatist: 5</li>"+
+"</ul>"
+
+"<p>This suggests that I am most aligned with the theorist and pragmatist learning styles. The theorist style means that one likes to understand the theories behind the actions. They often use tools such as models, concepts and facts to further their learning. The reflector style means that one learns by observing others and reflecting on what happened. They prefer standing back and learning from others, collecting data to work toward their conclusions. </p>"+
 "<div><img src='./xx.PNG'></div>"+
 
-"<h4>123 test disc personality test</h4>" +
-"<p>ENTER TEXT.</p>"+
+"<h4>Big Five Personality Test</h4>" +
+"<ul>"+
+"<li>Openness 80%/li>"+
+"<li>Conscientiousness 54%</li>"+
+"<li>Extraversion 4%</li>"+
+"<li>Agreeableness 73%</li>"+
+"<li>Neuroticism 54%</li>"+
+"</ul>"
+
+"<p>This suggests that I score highest on openness and lowest on extraversion. People with high openness have a tendency to think in abstract and complex ways. People with low extraversion are less socially active and do not often seek “social rewards” such as friendship, admiration, power, status, excitement and romance. This means that they are introverts, which I similarly scored highly on in the Myers-Briggs personality test. </p>"+
 "<div><img src='./xx.PNG'></div>"+
 
 "<hr>"+
