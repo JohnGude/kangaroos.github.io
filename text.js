@@ -155,6 +155,37 @@ export let kangaroo_team_profiles =
 "<hr>"
 
 
+export let tools =
+
+"<h1>Tools</h1>" + 
+
+"<h2>Microsoft Teams</h2>" + 
+"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+
+"<h2>Meeting Links</h2>" + 
+"<p>Meeting 23/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
+
+"<p>Meeting 30/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
+
+"<p>Meeting 6/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
+
+"<p>Meeting 10/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=IR6p2L'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
+
+"</div>"
+
+
 export let industry_data = 
 
 "<h1>Industry Data</h1>" + 
@@ -223,22 +254,19 @@ export let industry_data =
 "<hr>"
 
 
-export let career_profiling = 
+export let it_work = 
 
-"<h1>Ideal career Career Position</h1>" + 
-"<p>My ideal role would be Chief Digital Officer and follows on from my current role of Chief Technical Engineer ANZ. This role is the next evolutionary step in my career, having worked within this field for 25+ years my knowledge and understanding across multiple sectors at a global level is consummate to this role. This position provides me with the level of influence to develop global frameworks rather than national or country level frameworks. It allows access to additional resources and skills to enable cohesive ideas and technology solutions to come together to solve complex engineering problems. This solving of complex problems is one of the driving forces of choosing this career path.</p>"+
-"<p>The skills and qualifications in this role have more to do with experience and exposure to the type of work involved, soft skills in how I present, articulate arguments and leadership in direction for technology solutions. It is however better to have qualifications which support the experience, and therefore why I am trying to achieve a degree in IT.</P>"+
-"<p>In summary the skills and qualifications required may consist of:</P>"+
-"<ol>"+
-"<li>Background in IT and/or Engineering (20+years)</li>"+
-"<li>People leader at international and global levels</li>"+
-"<li>Deep understanding of financial market strategy affecting business decision making</li>"+
-"<li>Deep understanding of IT market movements and strategy</li>"+
-"<li>Able to present complex ideas at board/executive level</li>"+
-"<li>Understanding of security systems and legacy evolutionary measures</li>"+
-"<li>Qualifications: Degree/MBA/PHD level IT, Engineering and Project Management or eqv exp."+
-"</ol>"+
-"<p>The plan to achieve this is to complete a IT degree and register for professional memberships to compliment my current role (Chief Technical Engineer:Digital, Systems,Signalling) and transition through promotion into the CDO role.</p>"
+"<h1>IT Work</h1>" + 
+"<p> Text Here </p>"+
+
+"<hr>"
+
+export let team_project =
+
+"<h1>Team Project</h1>" + 
+"<h2>Project Name</h2>" +
+"<h4>Introduction</h4>" +
+"<p>text </p>"
 
 export let it_technologies =
 
@@ -275,43 +303,6 @@ export let it_technologies =
 "<p>The impact of machine learning on jobs and technologies is a complex and multifaceted issue. On the one hand, machine learning has the potential to automate certain tasks that are currently done by humans, which could lead to job displacement. However, it also has the potential to create new job opportunities, such as for data scientists and machine learning engineers. In terms of technologies, machine learning has the potential to replace certain existing technologies or augment them in ways that make them more efficient or effective. For example, machine learning algorithms can be used to analyse and interpret data in real-time, enabling faster and more accurate decision-making. This could lead to the replacement of certain existing technologies that are currently used for these tasks. Overall, it is difficult to predict exactly how machine learning will impact the job market and the use of certain technologies. It is likely that it will have both disruptive and transformative effects, and it will be important for individuals and organisations to adapt and stay up to date with these developments. It is also important to consider the ethical implications of these changes and ensure that they are implemented in a responsible and fair manner.</p>"+
 "<p>Machine learning has the potential to transform many aspects of our daily lives and the lives of our families. It can be used to improve healthcare outcomes, enhance customer service, automate tasks, and improve decision-making. These changes are likely to lead to increased productivity and efficiency, as well as a higher quality of life for individuals and their families. While there may be some disruptions as machine learning is adopted and integrated into various industries and sectors, the overall impact is expected to be positive and transformative.</p>"
 
-export let team_project =
-
-"<h1>Team Project</h1>" + 
-"<h2>Project Name</h2>" +
-"<h4>Introduction</h4>" +
-"<p>text </p>"
-
-
-export let meetings =
-
-"<h1>Meetings</h1>" + 
-
-"<h2>Microsoft Teams</h2>" + 
-"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
-
-"<h2>Meeting Links</h2>" + 
-"<p>Meeting 23/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
-
-"<p>Meeting 30/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
-
-"<p>Meeting 6/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
-
-"<p>Meeting 10/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=IR6p2L'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
-
-"</div>"
 		
 export let team_reflections =
 
