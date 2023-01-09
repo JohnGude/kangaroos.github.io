@@ -155,10 +155,46 @@ export let kangaroo_team_profiles =
 "<hr>"
 
 
-export let it_interests = 
+export let industry_data = 
 
-"<h1>IT Interests</h1>" + 
-"<p>text here</p>"
+"<h1>Industry Data</h1>" + 
+"<p>Understanding job market demand is, for many people, a key factor in deciding what field they want to go into. According to ACS Australia’s Digital Pulse (2022), there has reportedly been an 8.0% growth in technology related employment in Australia. In comparison, there has been a 6.4% growth in overall jobs. This means that as of 2021, there are 870,268 people who are employed in the technology workforce. Current projections suggest that there will be 1 million technology workers in Australia by 2024 and 1.2 million by 2027. While the technology industry is growing overall in Australia, some occupations are growing more rapidly than others. Taking into consideration what skills are in high demand is beneficial to those who are looking to go into the industry. These skills are applied to IT specific related skills as well as general skills. This analysis of industry data will outline what the current technology industry looks like in Australia as well as what is currently projected for the future of the industry. </p>"+
+"<p>The job titles for this group are: </p>"+
+"<ul>"+
+"<li>Ben: Data Engineer</li>"+
+"<li>John: Chief Digital Officer </li>"+
+"<li>Nicole: Data Scientist </li>"+
+"<li>Tarish: Security Analyst </li>"+
+"<li>Tatsuya: Software Developer</li>"+
+"</ul>"+
+"<p>Disclaimer: This analysis will attempt to use these exact titles, however if the title is not available it will replace it with a functional equivalent for comparison. The grouping for this analysis is based on the Australian and New Zealand Standard Classification of Occupation (ANZSCO) occupational categories.  </p>"+
+
+"<h2>Job Title Rankings </h2>" + 
+"<div><img src='./jobrank.JPG'></div>"+
+"<p>[ This chart ranks these job titles in relation to the demand from employers. ]</p>"+
+"<p><b>Findings</b>: As shown in this chart, “Software and Applications Programmers” has the highest number of people employed in the field. Followed by ICT Managers and Database & Systems Administrators & ICT Security. </p>"+
+"<p>This data was taken from Labour Market Insights. This data is based on two external sources:  </p>"+
+"<ul>"+
+"<li>ANZSCO 4-digit occupations: ABS, Labour Force, Detailed, Jobs and Skills Australia seasonally adjusted August 2022  </li>"+
+"<li>ANZSCO 6-digit occupations: ABS, 2016 Census, customised report. </li>"+
+"</ul>"+
+"<div><img src='./jobgrowth.JPG'></div>"+
+"<p>[ This chart ranks these job titles in relation to the projected growth over the next five years. ] </p>"+
+"<p><b>Findings</b>: As shown here, Database & Systems Administrators & ICT Security has the highest job growth. There is projected job growth for all the listed job titles, although to varying degrees. This projected job growth is based on a 5-year projections estimate of the future employment level and the projected amount of employment change. </p>"+
+"<p>The source of this data is Labor Market Insights. They list their external source as:  </p>"+
+"<ul>"+
+"<li>Jobs and Skills Australia, 2021 Employment projections for the five years to 2026. </li>"+
+"</ul>"+
+
+"<h2>Groups Required Skill Set </h2>" + 
+"<h3>IT Specific Skills </h3>" + 
+"<p>Listed below are some of the IT Specific related skills required for the group’s jobs. These skills were listed by the group members during the ideal job section of Assignment One. The data used for the analysis is from Burning Glass (2018) and it is based on how in demand these skills are. Demand is based on the frequency of these skills appearing in job postings from Dec 24 2017 - Mar 23 2018.</p>"+
+"<p>SQL, JavaScript, Windows, UNIX, Linux, Java, C#, .Net, Python, R, SAS, Project Management, and Business Analysis. </p>"+
+"<div><img src='./itskills.JPG'></div>"+
+"<p>[ This chart ranks the three highest in demand IT Specific related skills ]</p>"+
+"<p>text here</p>"+
+"<p>text here</p>"+
+"<p>text here</p>"+
 
 
 
