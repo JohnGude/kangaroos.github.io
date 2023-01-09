@@ -169,6 +169,8 @@ export let industry_data =
 "</ul>"+
 "<p>Disclaimer: This analysis will attempt to use these exact titles, however if the title is not available it will replace it with a functional equivalent for comparison. The grouping for this analysis is based on the Australian and New Zealand Standard Classification of Occupation (ANZSCO) occupational categories.  </p>"+
 
+"<hr>"+
+
 "<h2>Job Title Rankings </h2>" + 
 "<div><img src='./jobrank.JPG'></div>"+
 "<p>[ This chart ranks these job titles in relation to the demand from employers. ]</p>"+
@@ -186,6 +188,8 @@ export let industry_data =
 "<li>Jobs and Skills Australia, 2021 Employment projections for the five years to 2026. </li>"+
 "</ul>"+
 
+"<hr>"+
+
 "<h2>Groups Required Skill Set </h2>" + 
 "<h3>IT Specific Skills </h3>" + 
 "<p>Listed below are some of the IT Specific related skills required for the group’s jobs. These skills were listed by the group members during the ideal job section of Assignment One. The data used for the analysis is from Burning Glass (2018) and it is based on how in demand these skills are. Demand is based on the frequency of these skills appearing in job postings from Dec 24 2017 - Mar 23 2018.</p>"+
@@ -201,13 +205,14 @@ export let industry_data =
 "<p><b>Findings</b>: The three highest in demand General skills are: Communication Skills, Problem Solving and Organisational Skills. Communication skills are the highest in demand, appearing 27,922 times more than the second highest in demand. These skills may apply to all the listed occupations, so it would be beneficial for all members to work on these skills.  </p>"+
 "<p><b>Conclusion</b>: Concerning demand, the skills listed in the group’s previous assignments are seen through the general skills section more than the IT Specific skills section. The most in demand IT Specific skills are related to programming-oriented occupations, similar to the findings in the job rankings section. It should be noted, however, that only showing the ranking of the “top three” skills does not fully grasp the entirety of skills that are in demand or becoming increasingly sought after.</p>"+
 
+"<hr>"+
+
 "<h2>Has your opinion of your ideal job changed? Why or why not?</h2>" + 
 "<p>Ben: My opinion of my ideal job has not necessarily changed but this data analysis has made me more aware of the growth in the area of data science and the management of data. The skills that I imagined would be most in demand across the IT industry (based on the Kangaroo’s ideal job selection) were in line with my expectations. Having these data summarised has had the great benefit of highlighting the key focus areas of what skills (both hard and soft skills) are most in demand with employers. As a result, I will be tailoring my self-directed learning to focus more on the SQL and database knowledge, and I will make a concerted effort to improve both my written and verbal communication skills in preparation for entering the IT workforce. </p>"+
 "<p>John: </p>"+
 "<p>Nicole: For the ideal job section of assignment one, I was unsure of what I would consider my ideal job. For this reason, I am remaining open minded and researching the current job outlook in Australia has been an interesting venture. I want to take time to further consider what my ideal job would be. During the remainder of my studies, I will be sure to keep in mind what areas I will benefit from and use the resources provided to make the most of my knowledge.</p>"+
 "<p>Tarish: </p>"+
-"<p>Tatsuya: </p>"+
-
+"<p>Tatsuya: </p>"
 
 
 
