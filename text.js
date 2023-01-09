@@ -286,17 +286,11 @@ export let team_project =
 export let meetings =
 
 "<h1>Meetings</h1>" + 
-"<h2>text</h2>" +
-"<h4>ADD VID TO GITHUB</h4>" +
-"<div class='vid'>"+
-"<video width='320' height='240' controls>"+
-  "<source src='meeting231222.mp4' type='video/mp4'>"+
-  "Your browser does not support the video tag."+
-"</video>"+
 
-"<h1>Microsoft Teams</h1>" + 
+"<h2>Microsoft Teams</h2>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
 
+"<h2>Meeting Links</h2>" + 
 "<p>Meeting 23/12/2022 </p>"+
 "<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
 "<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
