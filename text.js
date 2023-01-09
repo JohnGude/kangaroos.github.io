@@ -212,8 +212,15 @@ export let industry_data =
 "<p>John: </p>"+
 "<p>Nicole: For the ideal job section of assignment one, I was unsure of what I would consider my ideal job. For this reason, I am remaining open minded and researching the current job outlook in Australia has been an interesting venture. I want to take time to further consider what my ideal job would be. During the remainder of my studies, I will be sure to keep in mind what areas I will benefit from and use the resources provided to make the most of my knowledge.</p>"+
 "<p>Tarish: </p>"+
-"<p>Tatsuya: </p>"
+"<p>Tatsuya: </p>" +
 
+"<h2>References</h2>" + 
+"<p>Australia Department of Industry, Innovation and Science (2022) Australia's Tech Future. rep. Canberra, ACT: Australian Government.  </p>" +
+"<p>Australian Computer Society (2022) ACS Australia’s Digital Pulse. rep. Sydney, NSW: Deloitte Access Economics.  </p>" +
+"<p>Burning Glass Technologies (2018) Labour Insight Jobs. Burning Glass Technologies </p>" +
+"<p>Labour Market Insights (2022) Industry Profiles. publication. Australian Government. Available at: https://labourmarketinsights.gov.au/industries/industry-profiles/ (Accessed: January 4, 2023). </p>" +
+
+"<hr>"
 
 
 export let career_profiling = 
