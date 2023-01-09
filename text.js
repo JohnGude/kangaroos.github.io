@@ -84,7 +84,7 @@ export let kangaroo_team_profiles =
 "<hr>"+
 
 
-"<img src='./bt_self.jpg'></img>"+
+"<img src='./bt_self.jpeg'></img>"+
 "<h2>Benjamin Turner</h2>" +
 "<p>Student Number: S3889042 </p>"+
 "<p>Student email Address: <a href='mailto:s3889042@student.rmit.edu.au'>s3889042@student.rmit.edu.au</a></p>"+
@@ -99,15 +99,15 @@ export let kangaroo_team_profiles =
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
 "<p>My 16 personalities Myers-Briggs result was that of an architect INTJ-T (an imaginative and strategic thinker, with a plan for everything). This personality test provides an accurate diagnosis of the way I behave/work in teams. I prefer smaller teams and collaborating with peers of a similar skill set or experience level and like to be given a little more freedom in my decision making as opposed to being led by a my-way-or-the-highway kind of leader, attributes highlighted in my Myers-Briggs result. </p>"+
-"<div><img src='./bt_16personalities.PNG'></div>"+
+"<div><img src='./bt_16personalities.png'></div>"+
 
 "<h4>VARK Learning Style Test</h4>" +
 "<p>My VARK learning style results reflected a preference for a kinaesthetic learning style. Both my current and ideal jobs (data engineer/analyst) are quite hands-on, so the kinaesthetic learning/teaching style works well for me in this setting. I do learn best when given the opportunity to tinker with a problem or new technique at my own pace. </p>"+
-"<div><img src='./bt_vark.PNG'></div>"+
+"<div><img src='./bt_vark.png'></div>"+
 
 "<h4>Divergent Association Task Creativity Test</h4>" +
 "<p>My Divergent Association Task creativity test was in the top 1.4% of first-time quiz takers, suggesting good creative/alternative thinking patterns. I feel I tend to perform my best or have the most valuable input when jumping in with alternative ideas off someone else’s core plan/system, as reflected in the high score here. That said, the researchers themselves note that the test only reflects one aspect of creativity, one I evidently score well in. </p>"+
-"<div><img src='./bt_dat.PNG'></div>"+
+"<div><img src='./bt_dat.png'></div>"+
 
 "<hr>"+
 "<img src='./tk_photo.jpg'></img>"+
@@ -124,7 +124,7 @@ export let kangaroo_team_profiles =
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
 "<p> The Myers-Briggs test indicates that I have a personality type known as the Consul,which is characterized by being a positive and empathetic individual who is skilled at building strong connections with others. This is a standout strength, as it is beneficial when working in a team. The test also highlights a strong sense of duty and practical skills, such as the ability to manage day-to-day tasks and routines, as well as loyalty. These strengths suggest that the Consul personality type is well-suited for group environments.</p>"+
-"<div><img src='./tk_mbrigs.PNG'></div>"+
+"<div><img src='./tk_mbrigs.png'></div>"+
 
 "<h4>Learning style text</h4>" +
 "<p>The learning style is that of a hands-on learner which I can agree with. I prefer to engage myself in activities-based learning rather than the more traditional textbook learning.</p>"+
@@ -293,17 +293,31 @@ export let meetings =
   "<source src='meeting231222.mp4' type='video/mp4'>"+
   "Your browser does not support the video tag."+
 "</video>"+
+
+"<h1>Microsoft Teams</h1>" + 
+"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+
 "<p>Meeting 23/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
 
-"<video width='320' height='240' controls>"+
-  "<source src='meeting231222.mp4' type='video/mp4'>"+
-  "Your browser does not support the video tag."+
-"</video>"+
-"<p>Meeting xx/xx/xx </p>"+
+"<p>Meeting 30/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
+
+"<p>Meeting 6/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
+
+"<p>Meeting 10/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=IR6p2L'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
+
 "</div>"
-
-
-
 		
 export let team_reflections =
 
