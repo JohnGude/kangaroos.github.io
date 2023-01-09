@@ -1,16 +1,15 @@
 import {kangaroo_team_profiles} from "./text.js";
+import {tools} from "./text.js";
 import {industry_data} from "./text.js";
-import {career_profiling} from "./text.js";
-import {it_technologies} from "./text.js";
+import {it_work} from "./text.js";
 import {team_project} from "./text.js";
-import {meetings} from "./text.js";
 import {team_reflections} from "./text.js";
 import {contacts} from "./text.js";
 
 
 
-const pages = ["kangaroo_team_profiles","industry_data","career_profiling","it_technologies","team_project","meetings","team_reflections","contacts"]
-const imports = [kangaroo_team_profiles,industry_data,career_profiling,it_technologies,team_project,meetings,team_reflections,contacts]
+const pages = ["kangaroo_team_profiles","tools","industry_data","it_work","team_project","team_reflections","contacts"]
+const imports = [kangaroo_team_profiles,tools,industry_data,it_work,team_project,team_reflections,contacts]
 
 let element = document.getElementById("kangaroo_team_profiles");
 element.classList.add("active")
