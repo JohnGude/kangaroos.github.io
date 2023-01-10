@@ -261,12 +261,7 @@ export let it_work =
 
 "<hr>"
 
-export let team_project =
 
-"<h1>Team Project</h1>" + 
-"<h2>Project Name</h2>" +
-"<h4>Introduction</h4>" +
-"<p>text </p>"
 
 export let it_technologies =
 
@@ -303,7 +298,13 @@ export let it_technologies =
 "<p>The impact of machine learning on jobs and technologies is a complex and multifaceted issue. On the one hand, machine learning has the potential to automate certain tasks that are currently done by humans, which could lead to job displacement. However, it also has the potential to create new job opportunities, such as for data scientists and machine learning engineers. In terms of technologies, machine learning has the potential to replace certain existing technologies or augment them in ways that make them more efficient or effective. For example, machine learning algorithms can be used to analyse and interpret data in real-time, enabling faster and more accurate decision-making. This could lead to the replacement of certain existing technologies that are currently used for these tasks. Overall, it is difficult to predict exactly how machine learning will impact the job market and the use of certain technologies. It is likely that it will have both disruptive and transformative effects, and it will be important for individuals and organisations to adapt and stay up to date with these developments. It is also important to consider the ethical implications of these changes and ensure that they are implemented in a responsible and fair manner.</p>"+
 "<p>Machine learning has the potential to transform many aspects of our daily lives and the lives of our families. It can be used to improve healthcare outcomes, enhance customer service, automate tasks, and improve decision-making. These changes are likely to lead to increased productivity and efficiency, as well as a higher quality of life for individuals and their families. While there may be some disruptions as machine learning is adopted and integrated into various industries and sectors, the overall impact is expected to be positive and transformative.</p>"
 
-		
+export let team_project =
+
+"<h1>Team Project</h1>" + 
+"<h2>Project Name</h2>" +
+"<h4>Introduction</h4>" +
+"<p>text </p>"
+
 export let team_reflections =
 
 "<h1>Team Reflections</h1>" + 
@@ -312,8 +313,6 @@ export let team_reflections =
 "<p>text </p>"
 
 
-		
-		
 export let contacts =
 
 "<h1>Contacts</h1>" + 
