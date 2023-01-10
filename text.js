@@ -179,9 +179,9 @@ export let tools =
 "<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
 
 "<p>Meeting 10/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=IR6p2L'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a> </p>"+
 
 "</div>"
 
