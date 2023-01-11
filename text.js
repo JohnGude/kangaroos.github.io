@@ -350,7 +350,7 @@ export let contacts =
 "</tr>"+
 "<tr>"+
 "<td>Tatsuya Rood'e</td>"+
-"<td><a href='mailto:Enter email here'>Enter email here</a></td>"+
+"<td><a href='mailto:S3845434@student.rmit.edu.au'>S3845434@student.rmit.edu.au</a></td>"+
 "</tr>"+
 "<tr>"+
 "</table>"
