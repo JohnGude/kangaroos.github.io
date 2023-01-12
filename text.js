@@ -1,5 +1,5 @@
 export let kangaroo_team_profiles = 
-"<h1>The Kangaroo Team</h1>" + 
+"<h1><i class='fa-solid fa-people-group fa-xl'></i> The Kangaroo Team</h1>" + 
 "<h2>Our Team Members: John Gude, Nicole Brooker, Benjamin Turner Tarish Kapur, Tatsuya Rood'e</h2>" + 
 "<p>Our team has come together and much like the animal, we represent a team that can only move forward. We are looking towards the future of the IT industry and how it shapes our lives. Being part of RMIT and its history binds our team to its rich history and that of Melbourne and more broadly Australia, our team's name reflects those connections.  </p>" +
 "<blockquote cite = 'https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo'> Acton, C 2019, ‘Kangaroo | National Museum of Australia’,Nma.gov.au, viewed 29 December 2022," +
@@ -166,7 +166,7 @@ export let kangaroo_team_profiles =
 
 export let tools =
 
-"<h1>Tools</h1>" + 
+"<h1><i class='fa-solid fa-screwdriver-wrench fa-xl'></i> Tools</h1>" + 
 "<p>The Kangaroos Team used Microsoft Teams exclusively for all communications and Github for all file uploads. MS Teams has a SharePoint backend which supports file storage which was used to host all our communications. The links are shown below accordingly.</p>"+
 "<h3>Microsoft Teams</h3>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
@@ -240,7 +240,7 @@ export let tools =
 
 export let industry_data = 
 
-"<h1>Industry Data</h1>" + 
+"<h1><i class='fa-solid fa-chart-line fa-xl'></i> Industry Data</h1>" + 
 "<p>Understanding job market demand is, for many people, a key factor in deciding what field they want to go into. According to ACS Australia’s Digital Pulse (2022), there has reportedly been an 8.0% growth in technology related employment in Australia. In comparison, there has been a 6.4% growth in overall jobs. This means that as of 2021, there are 870,268 people who are employed in the technology workforce. Current projections suggest that there will be 1 million technology workers in Australia by 2024 and 1.2 million by 2027. While the technology industry is growing overall in Australia, some occupations are growing more rapidly than others. Taking into consideration what skills are in high demand is beneficial to those who are looking to go into the industry. These skills are applied to IT specific related skills as well as general skills. This analysis of industry data will outline what the current technology industry looks like in Australia as well as what is currently projected for the future of the industry. </p>"+
 "<p>The job titles for this group are: </p>"+
 "<ul>"+
@@ -369,7 +369,7 @@ export let industry_data =
 
 export let it_work = 
 
-"<h1>IT Work</h1>" + 
+"<h1><i class='fa-solid fa-laptop' fa-xl></i> IT Work</h1>" + 
 "<p> Text Here </p>"+
 
 "<hr>"
@@ -378,7 +378,7 @@ export let it_work =
 
 export let it_technologies =
 
-"<h1>IT Technologies</h1>" + 
+"<h1><i class='fa-solid fa-microchip fa-xl'></i> IT Technologies</h1>" + 
 "<h2>Raspberry Pis, Arduinos, Makey Makeys and other small computing devices</h2>" +
 "<p>Integrated circuits, computer-based boards and peripherals were notoriously expensive and non-modular creating complex development environments and accessibility issues for the general population. The advent of modularised computer-based systems allowed reduced cost of manufacture and increased accessibility which in turn allowed increased development opportunities both in hardware and software. Raspberry Pis brought a small, modularised PC to the general public at low cost and using this methodology it allowed everyday users to develop products and applications without the complexity of commercial level development boards. It also allowed people from all over the world access to powerful low-cost computer-based technologies both for development and general use. Later, again due to the low-cost element and modularisation, it allowed educational entities the ability to teach students at any age, the fundamental elements of hardware and software development. Additional reading on the history of the Rasberry Pi is available on many web pages, however a short and concise text is 'The Epic Story of the Rasberry Pi' from https://raspberrytips.com/raspberry-pi-history/.Please refer to References section. </p>" +
 "<p>Both raspberry Pi and adreno technologies, or more accurately, the manufacturers of these products have allowed the public access to development boards for product development. While this is a major step forward it also has issues because while these boards are cheap, commercial development into a consumer product would be considerably and preventatively expensive, most manufacturers would use the development board to create a Minimum Viable Product (MVP) and then scale the circuitry / hardware to make it commercially viable. This is beyond the capabilities of a hobbyist or someone in the general population and requires teams who can navigate the legal requirements of product development but also ensuring that the product meets standards across multiple countries, an example of this, would be EMC and CE marking for regulatory compliance for a particular country. While the Adrino and Rasberry Pi boards have passed these tests its important that the tests include its intended environment as part of those compliance regulations. </p>"+
@@ -413,14 +413,14 @@ export let it_technologies =
 
 export let team_project =
 
-"<h1>Team Project</h1>" + 
+"<h1><i class='fa-solid fa-diagram-project fa-xl'></i> Team Project</h1>" + 
 "<h2>Project Name</h2>" +
 "<h4>Introduction</h4>" +
 "<p>text </p>"
 
 export let team_reflections =
 
-"<h1>Team Reflections</h1>" + 
+"<h1><i class='fa-solid fa-lightbulb fa-xl'></i> Team Reflections</h1>" + 
 "<h2>text</h2>" +
 "<h4>text</h4>" +
 "<p>text </p>"
@@ -428,7 +428,7 @@ export let team_reflections =
 
 export let contacts =
 
-"<h1>Contacts</h1>" + 
+"<h1><i class='fa-solid fa-address-book fa-xl'></i> Contacts</h1>" + 
 "<h2>Kangaroo Team Contact Details</h2>" +
 
 "<table>"+
