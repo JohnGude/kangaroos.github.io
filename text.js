@@ -213,7 +213,65 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
-
+"<hr>" +
+"<h2>Ideal Jobs Comparison Table</h2>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Role</th>"+
+  "<th>Educational Requirement</th>"+
+  "<th>Skills Required</th>"+
+  "<th>Exp (yrs)</th>"+
+  "<th>Tools</th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>John Gude</td>"+
+    "<td>Chief Digital Officer</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
+    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
+    "<td>20+</td>"+
+    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td>Senior Data Scientist</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
+    "<td>GCP and GIT</td>"+
+    "<td>5+ years</td>"+
+    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Benjamin Turner</td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya Rood'e</td>"+
+    "<td>Software Developer</td>"+
+    "<td> Minimum of a bachelor in any software related field  </td>"+
+    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
+    "<td>Git, common languages </td>"+
+    "<td>4+ </td>"+
+    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
+"</tr>"+
+"<tr>"+
+"</table>"
 
 "<hr>"
 
@@ -351,7 +409,7 @@ export let industry_data =
 "<p>Ben: My opinion of my ideal job has not necessarily changed but this data analysis has made me more aware of the growth in the area of data science and the management of data. The skills that I imagined would be most in demand across the IT industry (based on the Kangaroo’s ideal job selection) were in line with my expectations. Having these data summarised has had the great benefit of highlighting the key focus areas of what skills (both hard and soft skills) are most in demand with employers. As a result, I will be tailoring my self-directed learning to focus more on the SQL and database knowledge, and I will make a concerted effort to improve both my written and verbal communication skills in preparation for entering the IT workforce. </p>"+
 "<p>John: My career path has been built over 35+ years and i do not believe that an ideal job actually exists. Aligning what is valuable, generated from the research and what makes you happy are the driving factors i apply. The role CDO, is generally an extension of my current role but understanding market IT skill movements allows me to help my teams development and increases my career choices   </p>"+
 "<p>Nicole: For the ideal job section of assignment one, I was unsure of what I would consider my ideal job. For this reason, I am remaining open minded and researching the current job outlook in Australia has been an interesting venture. I want to take time to further consider what my ideal job would be. During the remainder of my studies, I will be sure to keep in mind what areas I will benefit from and use the resources provided to make the most of my knowledge.</p>"+
-"<p>Tarish: </p>"+
+"<p>Tarish: The stance towards and obtaining the necessary qualification for a security analyst role has not changed. The data suggest a significant uptick in the job growth for Database & Systems Administrators & ICT Security in the next 5 year. Furthermore, the industry currently has one of the lowest employment rates in the field of IT, making it a promising area for career development  </p>"+
 "<p>Tatsuya: After reviewing the data analysis my opinion on my ideal job remains the same. However, the data analysis has given me insight on the future growth of software and applications programmers. The projected growth for software developers is promising with a job growth rate of 27% in the next five years. This is ideal for me as it's clear that my ideal job is currently in demand with the potential for future growth. </p>" +
 
 "<h2>References</h2>" + 
@@ -459,6 +517,11 @@ export let it_technologies =
 "<p>There are several technologies currently used in the cybersecurity industry to protect against cyber threats. The most used software-based technology that can be highlighted is the Anti-virus and anti-malware software that are designed to detect and remove malware, such as viruses, worms, and Trojan horses, from computers and devices. Firewalls are network security systems that control incoming and outgoing network traffic based on predetermined security rules and are utilised by almost all corporation from big to small. Another significant tech used in the industry is the Intrusion detection and prevention systems (IDPS) that help monitor network traffic for signs of malicious activity and block or alert on any suspicious activity. Encryption is the process of converting plain text into coded text that can only be read by someone with the correct decryption key. Identity and access management (IAM) systems are designed to manage and protect the identities of users and devices within an organisation, including managing login credentials and controlling access to resources based on user permissions. Network segmentation the practice of dividing a computer network into smaller sub-networks, or segments, in order to limit the spread of a cyber threat. A technology I utilise daily is a Virtual private network (VPNs) this is used to create a secure, encrypted connection between a device and a network, allowing users to access the network securely over the internet. Security information and event management (SIEM) systems collect and analyse security-related data from multiple sources in order to identify and respond to potential cyber threats. This technology Is particularly useful for large cooperations with a complex network and provides a more centralised platform in order respond to security events and alerts. Finally, Artificial intelligence (AI) and machine learning can be used to analyse large amounts of data and identify patterns that may indicate a cyber threat, allowing organisations to take proactive measures to prevent attacks. To sum it up, there are lots of different technologies out there that people and companies can use. Even though these technologies are advanced, they must keep changing and improving to keep up with new threats that are always emerging.</p>"+
 "<p>In the future, we can expect to see the increasing use of artificial intelligence and machine learning to identify and prevent cyber threats in real-time. There will also be a greater focus on securing data and applications in the cloud as the use of cloud computing grows. To protect against the potential threat of quantum computers breaking current encryption methods, there will likely be a greater focus on developing and adopting quantum-resistant technologies. Traditional authentication methods such as passwords are becoming increasingly vulnerable to attacks, so we may see a greater focus on using biometric authentication methods like fingerprints, facial recognition, and iris scans to provide an additional layer of security. As the threat landscape continues to evolve, it is important for individuals and organisations to stay up-to-date on the latest cybersecurity threats and best practices, so there may be a greater emphasis on cybersecurity education and training to help individuals and organisations stay informed and protect against cyber threats.</p>"+
 "<p>Cybersecurity impacts the average person in multiple ways. It is important for protecting personal information (PII) and financial information from being accessed or stolen by unauthorised bad actors. If an individual's personal information is accessed or stolen, it can be used for identity theft, which can have serious consequences including financial losses and damage to an individual. Cybersecurity is also important for protecting against fraudulent activities such as phishing scams, which can trick individuals into revealing personal information or installing malware on their devices. If an individual's accounts are hacked, they may lose access to these accounts and the information and resources associated with them. Cybersecurity is also important for protecting an individual's privacy, as it helps prevent unauthorised access to personal information or data. To protect ourselves from these risks, it is important for us to be aware of cybersecurity risks and take steps to protect themselves, such as using strong and unique passwords, enabling two-factor authentication, and keeping software and devices up to date. On a personal level I’m a big advocate on the former practices and urge all my friends and family to follow suit.</p>"+
+"<p>Erspamer, N. (2022) Cyber security explained: From evolution to current trends, New Charter Technologies. Available at: https://www.newchartertech.com/cyber-security-from-evolution-to-current-trends/ (Accessed: December 29, 2022). </p>"+
+"<p>Kaspersky (2022) Top ten cybersecurity trends, www.kaspersky.com. Available at: https://www.kaspersky.com/resource-center/preemptive-safety/cyber-security-trends (Accessed: December 29, 2022). </p>"+
+"<p>Martha's Vineyard Cybersecurity Services (2022) Amity Website Design LLC. Available at: https://amitywebsitedesign.com/cybersecurity-services/ (Accessed: December 28, 2022). </p>"+
+"<p>Touro College (2021) Top 10 cybersecurity best practices for your business, Touro College Illinois. Touro College. Available at: https://illinois.touro.edu/news/top-10-cybersecurity-best-practices-for-your-business.php (Accessed: December 28, 2022).</p>"+
+"<p>Wario, G. (2022) Cybersecurity 101 - Everything You Need To Know, Cybersecurity 101 - Everything you need to know. Blogger. Available at: https://www.g-security.ga/2022/12/cybersecurity-101-everything-you-need.html (Accessed: December 29, 2022). </p>"+
 
 "<h2>Autonomous vehicles</h2>" +
 "<p>An autonomous vehicle or AV for short is an automobile that utilizes its environmental senses to operate fully independent without the use of human intervention. AV’s allow passengers to freely travel to a destination as a conventional car would but without the oversight of a driver. According to the “The Society of Motor Manufactures and Traders” (SMMT) autonomous vehicles are categorised into five distinct levels (SMMT 2020). The following levels can be seen below.  </p>" +
@@ -491,6 +554,12 @@ export let it_technologies =
 "<p>The potential impact of the developments in machine learning is significant and extensive. Machine learning has the potential to transform many aspects of our lives, including how we work, how we communicate, and how we access information. Some of the potential impacts of these developments include the following. Improved decision-making, machine learning algorithms can analyse large amounts of data and identify patterns that may be difficult for humans to understand. This can help organisations make more informed decisions, such as by predicting customer behaviour or identifying fraudulent activity. Enhanced productivity, machine learning can automate many tasks that are currently done manually, freeing up time for humans to focus on higher-level tasks. This can lead to increased productivity and efficiency. Improved healthcare, machine learning can be used to analyse medical data and identify patterns that may be useful for diagnosis and treatment. It can also be used to predict patient outcomes and identify potential health issues before they become serious. Overall, the potential impact of machine learning is significant and wide-ranging. It has the potential to transform many aspects of our lives, and it will be interesting to see how it is used in the coming years to solve a wide range of problems and improve our daily lives.</p>"+
 "<p>The impact of machine learning on jobs and technologies is a complex and multifaceted issue. On the one hand, machine learning has the potential to automate certain tasks that are currently done by humans, which could lead to job displacement. However, it also has the potential to create new job opportunities, such as for data scientists and machine learning engineers. In terms of technologies, machine learning has the potential to replace certain existing technologies or augment them in ways that make them more efficient or effective. For example, machine learning algorithms can be used to analyse and interpret data in real-time, enabling faster and more accurate decision-making. This could lead to the replacement of certain existing technologies that are currently used for these tasks. Overall, it is difficult to predict exactly how machine learning will impact the job market and the use of certain technologies. It is likely that it will have both disruptive and transformative effects, and it will be important for individuals and organisations to adapt and stay up to date with these developments. It is also important to consider the ethical implications of these changes and ensure that they are implemented in a responsible and fair manner.</p>"+
 "<p>Machine learning has the potential to transform many aspects of our daily lives and the lives of our families. It can be used to improve healthcare outcomes, enhance customer service, automate tasks, and improve decision-making. These changes are likely to lead to increased productivity and efficiency, as well as a higher quality of life for individuals and their families. While there may be some disruptions as machine learning is adopted and integrated into various industries and sectors, the overall impact is expected to be positive and transformative.</p>"
+"<p>Arshad, S. (2022) Impact of machine learning on Healthcare: 10 ways it will change things, ORNet. Available at: https://ornet.eu/impact-of-machine-learning-on-healthcare-10-ways-it-will-change-the-industry/ (Accessed: January 10, 2023). </p>"+
+"<p>Foote, K.D. (2017) Machine learning algorithms today: Usage and results, DATAVERSITY. Available at: https://www.dataversity.net/machine-learning-algorithms-today-usage-results/ (Accessed: January 10, 2023). </p>"+
+"<p>Foy, P. (2022) What is machine learning? Key Concepts & use cases, MLQ.ai. MLQ.ai. Available at: https://www.mlq.ai/what-is-machine-learning/ (Accessed: January 8, 2023). </p>"+
+"<p>What is machine learning? (2020) Oracle. Available at: https://www.oracle.com/artificial-intelligence/machine-learning/what-is-machine-learning/ (Accessed: January 10, 2023).</p>"+
+
+"<hr>"
 
 export let team_project =
 
