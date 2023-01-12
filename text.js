@@ -260,6 +260,67 @@ export let industry_data =
 "<p>Burning Glass Technologies (2018) Labour Insight Jobs. Burning Glass Technologies </p>" +
 "<p>Labour Market Insights (2022) Industry Profiles. publication. Australian Government. Available at: https://labourmarketinsights.gov.au/industries/industry-profiles/ (Accessed: January 4, 2023). </p>" +
 
+"<hr>" +
+"<h2>Ideal Jobs Comparison Table</h2>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Role</th>"+
+  "<th>Educational Requirement</th>"+
+  "<th>Skills Required</th>"+
+  "<th>Exp (yrs)</th>"+
+  "<th>Tools</th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>John Gude</td>"+
+    "<td>Chief Digital Officer</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
+    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
+    "<td>20+</td>"+
+    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Benjamin Turner</td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+"</tr>"+
+"<tr>"+
+"<td>Tatsuya Rood'e</td>"+
+"<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+"</tr>"+
+"<tr>"+
+"</table>"
+
+
 "<hr>"
 
 

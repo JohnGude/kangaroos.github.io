@@ -142,8 +142,9 @@ img:hover {
 table{
   width:100%;
 }
-table, th, td {
+table, th, td,tr {
   border: 1px solid black;
+  text-align:center;
  
 }
 
