@@ -167,6 +167,49 @@ export let kangaroo_team_profiles =
 export let tools =
 
 "<h1>Tools</h1>" + 
+"<p>The Kangaroos Team used Microsoft Teams exclusively for all communications and Github for all file uploads. MS Teams has a SharePoint backend which supports file storage which was used to host all our communications. The links are shown below accordingly.</p>"+
+"<h3>Microsoft Teams</h3>" + 
+"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+"<h3>Meetings</h3>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Meeting Date</th>"+
+  "<th>Agenda links</th>"+
+  "<th>Recordings links</th>"+
+  "<th>Actions links</th>"+
+  "<th>Tools</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>23/12/2022</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>30/12/2022</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>6/1/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>10/1/2023</td>"+
+  "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
+"</tr>"+
+"</table>"+
+
+
 
 "<h2>Microsoft Teams</h2>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
