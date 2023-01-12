@@ -352,13 +352,13 @@ export let industry_data =
     "<td></td>"+
 "</tr>"+
 "<tr>"+
-"<td>Tatsuya Rood'e</td>"+
-"<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
+    "<td>Tatsuya Rood'e</td>"+
+    "<td>Software Developer</td>"+
+    "<td> Minimum of a bachelor in any software related field  </td>"+
+    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
+    "<td>Git, common languages </td>"+
+    "<td>4+ </td>"+
+    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
 "</tr>"+
 "<tr>"+
 "</table>"
