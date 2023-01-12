@@ -1,6 +1,55 @@
 export let kangaroo_team_profiles = 
-"<h1><i class='fa-solid fa-people-group fa-xl'></i> The Kangaroo Team</h1>" + 
-"<h2>Our Team Members: John Gude, Nicole Brooker, Benjamin Turner Tarish Kapur, Tatsuya Rood'e</h2>" + 
+"<h1><i class='fa-solid fa-people-group fa-xl'></i> The Kangaroo's Team</h1>" + 
+"<hr>"+
+"<h2>Team Members</h2>" + 
+
+"<div class='main_card_container'>"+
+"<div class='card_container'>"+
+"<div class='card'>"+
+"<img src='./jg_photo.jpg' alt='John Gude' style='width:100%'></img>"+
+  "<div class='container_pic'>"+
+    "<h4><b><a href='#JG'>John Gude<a/></b></h4>"+
+    "<p>S3973475</p>"+
+  "</div>"+
+  
+"</div>"+
+"<div class='card'>"+
+"<img src='./nb_photo.jpg' alt='Nicole Brooker' style='width:100%'></img>"+
+  "<div class='container_pic'>"+
+    "<h4><b><a href='#NB'>Nicole Brooker<a/></b></h4>"+
+    "<p>S3743586</p>"+
+  "</div>"+
+  
+"</div>"+
+"<div class='card'>"+
+"<img src='./bt_self.jpeg' alt='Benjamin Turner' style='width:100%' ></img>"+
+  "<div class='container_pic'>"+
+    "<h4><b><a href='#BT'>Benjamin Turner<a/></b></h4>"+
+    "<p>S3889042</p>"+
+  "</div>"+
+  
+"</div>"+
+"<div class='card'>"+
+"<img src='./tk_photo.jpg' alt='Tarish Kapur' style='width:100%'></img>"+
+  "<div class='container_pic'>"+
+    "<h4><b><a href='#TK'>Tarish Kapur<a/></b></h4>"+
+    "<p>S3987674</p>"+
+  "</div>"+
+  
+"</div>"+
+"<div class='card'>"+
+"<img src='./TR_picme.jpg' alt='Tatsuya Roode' style='width:100%'></img>"+
+  "<div class='container_pic'>"+
+    "<h4><b><a href='#TR'>Tatsuya Rood'e<a/></b></h4>"+
+    "<p>S3845434</p>"+
+  "</div>"+
+  
+"</div>"+
+"</div>"+
+"</div>"+
+
+"<hr>"+
+
 "<p>Our team has come together and much like the animal, we represent a team that can only move forward. We are looking towards the future of the IT industry and how it shapes our lives. Being part of RMIT and its history binds our team to its rich history and that of Melbourne and more broadly Australia, our team's name reflects those connections.  </p>" +
 "<blockquote cite = 'https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo'> Acton, C 2019, ‘Kangaroo | National Museum of Australia’,Nma.gov.au, viewed 29 December 2022," +
 "<a href='https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo'> https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo</a>" +
@@ -12,7 +61,9 @@ export let kangaroo_team_profiles =
 
 
 "<hr>"+
-"<h1>Team Members</h1>"+
+"<a id='JG'></a>"+
+"<h1>Team Member Profiles</h1>"+
+
 "<img src='./jg_photo.jpg'></img>"+
 "<h2>John Gude</h2>" +
 "<p>Student Number: S3973475 </p>"+
@@ -38,9 +89,9 @@ export let kangaroo_team_profiles =
 "<p>The results of this test were not very accurate representation of me, it allows me to understand my view of the world against others, but I believe the test is not accurate. Using tests such as these could be detrimental to you if you followed them explicitly. The test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other roles outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future.I have learned that not all online tests are made equally.</p>"+
 "<div><img src='./jg_disk.PNG'></div>"+
 "<p>John’s results, specifically the Miers-Briggs test placed John as an INFJ personality type, John contributions towards the team are indicated within the tests are being able to provide, insight and unorthodox thinking. This combined with the ability to form simple strategy from complexity provides the team with valuable angles of attack towards the tasks required. Johns' personality type is open-minded but has a sense of responsibility to the team. John is also conscientious and is agreeable towards other ideas and thoughts, understanding the inner dynamics of a team, this helps the teamwork together, yet John provides leadership where it's required with a steady and controlled empathy to others within the team. This is reflective across all three tests as can be seen within the graphics. </p>"+
-
+"<a id='NB'></a>"+
 "<hr>"+
-
+"<a id='NB'></a>"+
 "<img src='./nb_photo.jpg'></img>"+
 "<h2>Nicole Brooker</h2>" +
 "<p>Student Number: S3743586 </p>"+
@@ -80,7 +131,7 @@ export let kangaroo_team_profiles =
 
 "<p>This suggests that I score highest on openness and lowest on extraversion. People with high openness have a tendency to think in abstract and complex ways. People with low extraversion are less socially active and do not often seek “social rewards” such as friendship, admiration, power, status, excitement and romance. This means that they are introverts, which I similarly scored highly on in the Myers-Briggs personality test. </p>"+
 "<div><img src='./nb_big5.jpg'></div>"+
-
+"<a id='BT'></a>"+
 "<hr>"+
 
 
@@ -99,7 +150,8 @@ export let kangaroo_team_profiles =
 "</ol>"+
 "<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
 "<p>My 16 personalities Myers-Briggs result was that of an architect INTJ-T (an imaginative and strategic thinker, with a plan for everything). This personality test provides an accurate diagnosis of the way I behave/work in teams. I prefer smaller teams and collaborating with peers of a similar skill set or experience level and like to be given a little more freedom in my decision making as opposed to being led by a my-way-or-the-highway kind of leader, attributes highlighted in my Myers-Briggs result. </p>"+
-"<div><img src='./bt_16personalities.png'></div>"+
+"<div><img src='./bt _16personalities.png'></div>"+
+
 
 "<h4>VARK Learning Style Test</h4>" +
 "<p>My VARK learning style results reflected a preference for a kinaesthetic learning style. Both my current and ideal jobs (data engineer/analyst) are quite hands-on, so the kinaesthetic learning/teaching style works well for me in this setting. I do learn best when given the opportunity to tinker with a problem or new technique at my own pace. </p>"+
@@ -108,7 +160,7 @@ export let kangaroo_team_profiles =
 "<h4>Divergent Association Task Creativity Test</h4>" +
 "<p>My Divergent Association Task creativity test was in the top 1.4% of first-time quiz takers, suggesting good creative/alternative thinking patterns. I feel I tend to perform my best or have the most valuable input when jumping in with alternative ideas off someone else’s core plan/system, as reflected in the high score here. That said, the researchers themselves note that the test only reflects one aspect of creativity, one I evidently score well in. </p>"+
 "<div><img src='./bt_dat.png'></div>"+
-
+"<a id='TK'></a>"+
 "<hr>"+
 "<img src='./tk_photo.jpg'></img>"+
 "<h2>Tarish Kapur</h2>" +
@@ -131,10 +183,10 @@ export let kangaroo_team_profiles =
 
 "<h4>Leadership Style - Front line leader</h4>" +
 "<p>I can relate to the leadership style of front-line leadership, as I have personally practiced it in the past while running a business in the hospitality industry. I learned the importance of focusing on my employees and understand the value of this approach.</p>"+
-
+"<a id='TR'></a>"+
 "<hr>"+
 
-"<h2>Tatsuya Rood'e</h2>" + 
+
 
 "<img src='./TR_picme.jpg'></img>"+
 "<h2>Tatsuya Rood'e</h2>" +
@@ -207,35 +259,11 @@ export let tools =
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a></td>"+
     "<td>MS Teams</td>"+
 "</tr>"+
-"</table>"+
+"</table>"
 
 
 
-"<h2>Microsoft Teams</h2>" + 
-"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
 
-"<h2>Meeting Links</h2>" + 
-"<p>Meeting 23/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
-
-"<p>Meeting 30/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
-
-"<p>Meeting 6/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
-
-"<p>Meeting 10/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a> </p>"+
-
-"</div>"
 
 
 export let industry_data = 
