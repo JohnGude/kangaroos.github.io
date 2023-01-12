@@ -87,7 +87,7 @@ export let kangaroo_team_profiles =
 
 "<h4>123 test disc personality test</h4>" +
 "<p>The results of this test were not very accurate representation of me, it allows me to understand my view of the world against others, but I believe the test is not accurate. Using tests such as these could be detrimental to you if you followed them explicitly. The test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other roles outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future.I have learned that not all online tests are made equally.</p>"+
-"<div><img src='./jg_disk.PNG'></div>"+
+"<div><img src='./jg_disk.png'></div>"+
 "<p>John’s results, specifically the Miers-Briggs test placed John as an INFJ personality type, John contributions towards the team are indicated within the tests are being able to provide, insight and unorthodox thinking. This combined with the ability to form simple strategy from complexity provides the team with valuable angles of attack towards the tasks required. Johns' personality type is open-minded but has a sense of responsibility to the team. John is also conscientious and is agreeable towards other ideas and thoughts, understanding the inner dynamics of a team, this helps the teamwork together, yet John provides leadership where it's required with a steady and controlled empathy to others within the team. This is reflective across all three tests as can be seen within the graphics. </p>"+
 "<a id='NB'></a>"+
 "<hr>"+
@@ -213,6 +213,66 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
+"<hr>" +
+"<h2>Ideal Jobs Comparison Table</h2>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Role</th>"+
+  "<th>Educational Requirement</th>"+
+  "<th>Skills Required</th>"+
+  "<th>Exp (yrs)</th>"+
+  "<th>Tools</th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>John Gude</td>"+
+    "<td>Chief Digital Officer</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
+    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
+    "<td>20+</td>"+
+    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td>Senior Data Scientist</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
+    "<td>GCP and GIT</td>"+
+    "<td>5+ years</td>"+
+    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Benjamin Turner</td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya Rood'e</td>"+
+    "<td>Software Developer</td>"+
+    "<td> Minimum of a bachelor in any software related field  </td>"+
+    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
+    "<td>Git, common languages </td>"+
+    "<td>4+ </td>"+
+    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
+"</tr>"+
+"<tr>"+
+"</table>"
+
 "<hr>"
 
 
@@ -222,6 +282,10 @@ export let tools =
 "<p>The Kangaroos Team used Microsoft Teams exclusively for all communications and Github for all file uploads. MS Teams has a SharePoint backend which supports file storage which was used to host all our communications. The links are shown below accordingly.</p>"+
 "<h3>Microsoft Teams</h3>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+"<h2>GitHub Links</h2>" + 
+"<p><a href='https://github.com/JohnGude/kangaroos.github.io'>GitHub Repo</a> </p>"+
+"<p><a href='https://johngude.github.io/kangaroos.github.io'>GitHub Page</a> </p>"+
+
 "<h3>Meetings</h3>" + 
 "<table>"+
   "<tr>"+
@@ -241,7 +305,7 @@ export let tools =
   "<tr>"+
     "<td>30/12/2022</td>"+
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3973475_student_rmit_edu_au/EWEYWvnOem5EpRNCE7YWBLgBAa8i19fN1xyv_SQVF0zORA?e=a8hxmz'>Recording</a></td>"+
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
@@ -263,6 +327,29 @@ export let tools =
 
 
 
+"<h2>Microsoft Teams</h2>" + 
+"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+
+"<h2>Meeting Links</h2>" + 
+"<p>Meeting 23/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
+
+"<p>Meeting 30/12/2022 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
+
+"<p>Meeting 6/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
+
+"<p>Meeting 10/1/2023 </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a> </p>"+
+"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a> </p>"+
 
 
 
@@ -323,7 +410,7 @@ export let industry_data =
 "<p>John: My career path has been built over 35+ years and i do not believe that an ideal job actually exists. Aligning what is valuable, generated from the research and what makes you happy are the driving factors i apply. The role CDO, is generally an extension of my current role but understanding market IT skill movements allows me to help my teams development and increases my career choices   </p>"+
 "<p>Nicole: For the ideal job section of assignment one, I was unsure of what I would consider my ideal job. For this reason, I am remaining open minded and researching the current job outlook in Australia has been an interesting venture. I want to take time to further consider what my ideal job would be. During the remainder of my studies, I will be sure to keep in mind what areas I will benefit from and use the resources provided to make the most of my knowledge.</p>"+
 "<p>Tarish: </p>"+
-"<p>Tatsuya: </p>" +
+"<p>Tatsuya: After reviewing the data analysis my opinion on my ideal job remains the same. However, the data analysis has given me insight on the future growth of software and applications programmers. The projected growth for software developers is promising with a job growth rate of 27% in the next five years. This is ideal for me as it's clear that my ideal job is currently in demand with the potential for future growth. </p>" +
 
 "<h2>References</h2>" + 
 "<p>Australia Department of Industry, Innovation and Science (2022) Australia's Tech Future. rep. Canberra, ACT: Australian Government.  </p>" +
@@ -331,65 +418,7 @@ export let industry_data =
 "<p>Burning Glass Technologies (2018) Labour Insight Jobs. Burning Glass Technologies </p>" +
 "<p>Labour Market Insights (2022) Industry Profiles. publication. Australian Government. Available at: https://labourmarketinsights.gov.au/industries/industry-profiles/ (Accessed: January 4, 2023). </p>" +
 
-"<hr>" +
-"<h2>Ideal Jobs Comparison Table</h2>" + 
-"<table>"+
-  "<tr>"+
-  "<th>Name</th>"+
-  "<th>Role</th>"+
-  "<th>Educational Requirement</th>"+
-  "<th>Skills Required</th>"+
-  "<th>Exp (yrs)</th>"+
-  "<th>Tools</th>"+
-  "<th>Analysis</th>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td>Chief Digital Officer</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
-    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
-    "<td>20+</td>"+
-    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Nicole Brooker</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Benjamin Turner</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-  "</tr>"+
-  "<tr>"+
-  "<td>Tarish Kapur</td>"+
-  "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-"</tr>"+
-"<tr>"+
-"<td>Tatsuya Rood'e</td>"+
-"<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-"</tr>"+
-"<tr>"+
-"</table>"
+
 
 
 "<hr>"
@@ -430,6 +459,30 @@ export let it_technologies =
 "<p>There are several technologies currently used in the cybersecurity industry to protect against cyber threats. The most used software-based technology that can be highlighted is the Anti-virus and anti-malware software that are designed to detect and remove malware, such as viruses, worms, and Trojan horses, from computers and devices. Firewalls are network security systems that control incoming and outgoing network traffic based on predetermined security rules and are utilised by almost all corporation from big to small. Another significant tech used in the industry is the Intrusion detection and prevention systems (IDPS) that help monitor network traffic for signs of malicious activity and block or alert on any suspicious activity. Encryption is the process of converting plain text into coded text that can only be read by someone with the correct decryption key. Identity and access management (IAM) systems are designed to manage and protect the identities of users and devices within an organisation, including managing login credentials and controlling access to resources based on user permissions. Network segmentation the practice of dividing a computer network into smaller sub-networks, or segments, in order to limit the spread of a cyber threat. A technology I utilise daily is a Virtual private network (VPNs) this is used to create a secure, encrypted connection between a device and a network, allowing users to access the network securely over the internet. Security information and event management (SIEM) systems collect and analyse security-related data from multiple sources in order to identify and respond to potential cyber threats. This technology Is particularly useful for large cooperations with a complex network and provides a more centralised platform in order respond to security events and alerts. Finally, Artificial intelligence (AI) and machine learning can be used to analyse large amounts of data and identify patterns that may indicate a cyber threat, allowing organisations to take proactive measures to prevent attacks. To sum it up, there are lots of different technologies out there that people and companies can use. Even though these technologies are advanced, they must keep changing and improving to keep up with new threats that are always emerging.</p>"+
 "<p>In the future, we can expect to see the increasing use of artificial intelligence and machine learning to identify and prevent cyber threats in real-time. There will also be a greater focus on securing data and applications in the cloud as the use of cloud computing grows. To protect against the potential threat of quantum computers breaking current encryption methods, there will likely be a greater focus on developing and adopting quantum-resistant technologies. Traditional authentication methods such as passwords are becoming increasingly vulnerable to attacks, so we may see a greater focus on using biometric authentication methods like fingerprints, facial recognition, and iris scans to provide an additional layer of security. As the threat landscape continues to evolve, it is important for individuals and organisations to stay up-to-date on the latest cybersecurity threats and best practices, so there may be a greater emphasis on cybersecurity education and training to help individuals and organisations stay informed and protect against cyber threats.</p>"+
 "<p>Cybersecurity impacts the average person in multiple ways. It is important for protecting personal information (PII) and financial information from being accessed or stolen by unauthorised bad actors. If an individual's personal information is accessed or stolen, it can be used for identity theft, which can have serious consequences including financial losses and damage to an individual. Cybersecurity is also important for protecting against fraudulent activities such as phishing scams, which can trick individuals into revealing personal information or installing malware on their devices. If an individual's accounts are hacked, they may lose access to these accounts and the information and resources associated with them. Cybersecurity is also important for protecting an individual's privacy, as it helps prevent unauthorised access to personal information or data. To protect ourselves from these risks, it is important for us to be aware of cybersecurity risks and take steps to protect themselves, such as using strong and unique passwords, enabling two-factor authentication, and keeping software and devices up to date. On a personal level I’m a big advocate on the former practices and urge all my friends and family to follow suit.</p>"+
+
+"<h2>Autonomous vehicles</h2>" +
+"<p>An autonomous vehicle or AV for short is an automobile that utilizes its environmental senses to operate fully independent without the use of human intervention. AV’s allow passengers to freely travel to a destination as a conventional car would but without the oversight of a driver. According to the “The Society of Motor Manufactures and Traders” (SMMT) autonomous vehicles are categorised into five distinct levels (SMMT 2020). The following levels can be seen below.  </p>" +
+"<p>Level 0 - No Automation (Manual control) </p>" +
+"<p>Level 1 - Driver Assistance (Single automated system) </p>" +
+"<p>Level 2 - Partial Automation (Advanced driver assistance system) </p>" +
+"<p>Level 3 - Conditional Automation (Environmental detection capabilities) </p>" +
+"<p>Level 4 - High Automation (Full automation under specific conditions) </p>" +
+"<p>Level 5 - Full Automation (Full automation in any conditions) </p>" +
+"<p>While AV’s offer convenience to the driver it also provides numerous benefits to society. One of the main advantages AVs create is the reduction of carbon dioxide emissions which has evidently become an issue due to the explosion of automobile ownership. As of 2022 according to Our World in Data 45.1% of C02 emissions contribute to the global C02 emissions from transport (Our World Data 2020). Furthermore, AV’s have the potential to drastically improve transportation safety as well as greatly improving transportation logistics.  </p>" +
+"<p>As of today, in 2023 the current AVs in use today range from levels zero to two with the majority of new manufactured cars being level 1 with features such as cruise control or basic steering control. Despite the rapid advancement in technology, car manufactures are still unable to overcome the technological hurdles to reach a fully autonomous vehicle which would range from level four to five. Companies such as Tesla have achieved to produce a level 2 AV with its two primary features being Tesla’s autopilot and full self-driving. Similar companies have also achieved autonomy level 2 such as GM’s super Cruise and Nissan’s ProPilot (Day.L 2021). However, due to the introduction of AV’s being relatively new to the consumer market companies such as Tesla have faced some backlash from the public. Tesla’s autopilot still requires the driver to be fully aware of its surroundings in an event of a hazard however, due to negligence of the driver several accidents have occurred during its use.</p>" +
+"<p>An Autonomous car functions under five key individual process being computer vision, sensor fusion, localization, path planning, and control. When in operation the car will constantly scan for information and gather data to compile all the information together into one overall image using the sensor fusion. This is how AVs fundamentally operate as it’s constantly localizing the cars position to deduce the best optimal path/decision given in any particular circumstance. </p>" +
+"<p>Computer vision allows the car to use multiple sensors to observe the surrounding environment with the use of cameras, radars, and LiDARs. Like humans we have relied on our eyes to compile visual information. The same concept applies for the cameras as it allows the computer to detect and identify physical elements on the roads and surrounding environments. These may include but not limited to road lines, traffic lights, car, etc. However, unlike eyes cameras are unable to measure depth which subsequently leads to the use of radars and LiDARs. Radar allows the computer vision to measure the distance of an object with the use of emitted radio waves while LiDAR uses lasers to measure the depth of each object called a cloud point (Dholakia.S 2019).  </p>" +
+"<p>As mentioned above sensor fusion complies all the data obtained from the computer vision (Visual information, radar, LiDAR) to create a reliable and accurate depiction of the surrounding area. This is essential for the operation of the car as sensor fusion can monitor the surrounding environment in real time intern allowing the AV to determine its speed and surroundings to make accurate decisions in real time. The AV will perform this iteration multiple times a second for improved accuracy and reliability. In conjunction to computer vision, AVs utilizes the use of localization to provide an extremely accurate position of the car. This is achieved by compiling the data measurements (e.g. distance) and GPS coordinates to triangulate the exact position of the vehicle on a macro and micro level (Dholakia.S 2019).</p>" +
+"<p>With the use of computer vision and localization, the car will then begin its path planning and decision making to determine the saftest, practical, and most convenient route from point A to B. Path planning can be broken down into two key elements being behaviour prediction of mobile objects and behaviour planning. Using the computer vision with the help of multiple model algorithms the AV can predict the behaviour of surrounding environment to determine the most likely trajectory of a manoeuvrable object. The algorithms simultaneously predict each objects trajectory to allow the car to compute the probability of each object to which it determines the best possible action. While behaviour planning balances the efficiency, safety, and comfort to reach its destination in a suitable manner (Ryabchuk.P 2018).  </p>" +
+"<p>Finally, control allows the car to steer, accelerate, and brake to reach its destination using the data and trajectory of the path planner. Once the path planning has determined the cars trajectory it will send instructions to the electronic control unit (ECU) for the AV to execute.  </p>" +
+"<p>As mentioned above majority of new cars on the road today are level 1 with a few companies producing level 2 AVs onto the market such as Tesla. However, companies such as Honda and Mercedes have introduced level 3 AVs to the market however, only under certain conditions being the highway. While on the highway Honda’s Sensing Elite and Mercedes Drive Pilot does not require the driver to pay attention.  The future of AVs is promising as companies such as Waymo are currently undergoing development of a level 4 AV aiming to remove the need for driver hand offs. As of now Waymo have introduced a small amount of driverless robotaxi service under trial for testing (Dholakia.S 2019). Furthermore, many truck companies are pushing for fully autonomous trucks due to the shortage of truck drivers. </p>" +
+"<p>At the current rate of advancement in technology we would expect many AVs to popularise our roads very soon into the near future. If AVs populated our roads the impact it will create would increase road safety, transportation logistics and provide industrial/economic benefits. However, the introduction of AV’s will impact many jobs around the world making many jobs redundant while also creating many new jobs. According to the Society of Motor Manufactures and Traders (SMMT) by 2030 the AV industry will add 51 billion a year to the UK economy as well as creating an additional 320 000 jobs (SMMT 2020). Due to AV’s increasing safety on our roads its most likely cars that are level 0 and 1 will begin to transition into modern level 2 to 4 AV’s. This will also make combustion vehicles redundant due to the extensive advantages AVs provide. Furthermore, a drastic change in infrastructure will commence as AV’s heavily relies on GPS requiring a minimum of 4G to operate. Most countries around the world do not currently have the required infrastructure needed to fully implement AVs into society.  </p>" +
+"<p>Autonomous vehicles would have a drastic impact on myself due to the convenience AVs provide. It would change my routine and improve time management allowing me to become more flexible. AV’s will improve safety not only for myself but for other individuals. For example, social events that includes the consumption of alcohol would allow people to travel home safely and reliably. More importantly AV’s will allow people who are disadvantaged (elderly, disabilities, etc) to travel freely without the help of another individual allowing for disadvantaged people to be more independent. Overall, autonomous vehicles would significantly improve quality of life and convenience to myself and friends/family.  </p>" +
+"<p>SMMT(The Society of Motor Manufacturers and Traders)(2020)Connected and Automated Vehicles, SMMT Driving The Motor Industry, accessed 3 January 2023.https://www.smmt.co.uk/industry-topics/technology-innovation/connected-autonomous-vehicles/   </p>" +
+"<p>Our world in data(2020)Cars, planes, trains: where do C02 emissions from transport come from?, Our World in Data, accessed 3 January 2023.https://ourworldindata.org/co2-emissions-from-transport   </p>" +
+"<p>Day.L(2021)The current state of play in autonomous cars, HACKADAY, accessed 3 January 2023.https://hackaday.com/2021/12/29/the-current-state-of-play-in-autonomous-cars/  </p>" +
+"<p>Dholakia.S(2019)How autonomous vehicles work, Medium, accessed 4 January 2023.https://swarit.medium.com/how-autonomous-vehicles-work-1a54364463c6 </p>" +
+"<p>Ryabchuk.P(2018)How does path planning for autonomous vehicles work?, DZone, accessed 4 January 2023.https://dzone.com/articles/how-does-path-planning-for-autonomous-vehicles-wor#:~:text=Path%20planning%20technology%20searches%20for,a%20vehicle%20and%20surrounding%20obstacles  </p>" +
 
 
 "<h2>Machine Learning</h2>" +
