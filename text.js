@@ -213,65 +213,7 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
-"<hr>" +
-"<h2>Ideal Jobs Comparison Table</h2>" + 
-"<table>"+
-  "<tr>"+
-  "<th>Name</th>"+
-  "<th>Role</th>"+
-  "<th>Educational Requirement</th>"+
-  "<th>Skills Required</th>"+
-  "<th>Exp (yrs)</th>"+
-  "<th>Tools</th>"+
-  "<th>Analysis</th>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td>Chief Digital Officer</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
-    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
-    "<td>20+</td>"+
-    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Nicole Brooker</td>"+
-    "<td>Senior Data Scientist</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
-    "<td>GCP and GIT</td>"+
-    "<td>5+ years</td>"+
-    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Benjamin Turner</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-  "</tr>"+
-  "<tr>"+
-  "<td>Tarish Kapur</td>"+
-  "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-"</tr>"+
-"<tr>"+
-    "<td>Tatsuya Rood'e</td>"+
-    "<td>Software Developer</td>"+
-    "<td> Minimum of a bachelor in any software related field  </td>"+
-    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
-    "<td>Git, common languages </td>"+
-    "<td>4+ </td>"+
-    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
-"</tr>"+
-"<tr>"+
-"</table>"
+
 
 "<hr>"
 
