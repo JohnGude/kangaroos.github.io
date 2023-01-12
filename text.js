@@ -256,7 +256,7 @@ export let kangaroo_team_profiles =
     "<td>Tarish Kapur</td>"+
     "<td>Security Analyst</td>"+
     "<td>Standard certifications such as CISSP, CISA and CISM to list a few</td>"+
-    "<td>Understanding of Windows, UNIX, and Linux Operation Systems. Common languages/td>"+
+    "<td>Understanding of Windows, UNIX, and Linux Operation Systems. Common languages</td>"+
     "<td>Azure - Splunk and industry specific software</td>"+
     "<td>2 + years </td>"+
     "<td>Long-term plan to obtain the qualifications is to work on finishing this IT degree through while incrementally also adding industry-specific certifications to my resume</td>"+
@@ -501,6 +501,7 @@ export let it_technologies =
 "<p>Foy, P. (2022) What is machine learning? Key Concepts & use cases, MLQ.ai. MLQ.ai. Available at: https://www.mlq.ai/what-is-machine-learning/ (Accessed: January 8, 2023). </p>"+
 "<p>What is machine learning? (2020) Oracle. Available at: https://www.oracle.com/artificial-intelligence/machine-learning/what-is-machine-learning/ (Accessed: January 10, 2023).</p>"+
 
+"<hr>"
 
 export let team_project =
 
