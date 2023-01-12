@@ -36,7 +36,7 @@ export let kangaroo_team_profiles =
 
 "<h4>123 test disc personality test</h4>" +
 "<p>The results of this test were not very accurate representation of me, it allows me to understand my view of the world against others, but I believe the test is not accurate. Using tests such as these could be detrimental to you if you followed them explicitly. The test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other roles outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future.I have learned that not all online tests are made equally.</p>"+
-"<div><img src='./jg_disk.PNG'></div>"+
+"<div><img src='./jg_disk.png'></div>"+
 "<p>John’s results, specifically the Miers-Briggs test placed John as an INFJ personality type, John contributions towards the team are indicated within the tests are being able to provide, insight and unorthodox thinking. This combined with the ability to form simple strategy from complexity provides the team with valuable angles of attack towards the tasks required. Johns' personality type is open-minded but has a sense of responsibility to the team. John is also conscientious and is agreeable towards other ideas and thoughts, understanding the inner dynamics of a team, this helps the teamwork together, yet John provides leadership where it's required with a steady and controlled empathy to others within the team. This is reflective across all three tests as can be seen within the graphics. </p>"+
 
 "<hr>"+
@@ -161,6 +161,66 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
+"<hr>" +
+"<h2>Ideal Jobs Comparison Table</h2>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Role</th>"+
+  "<th>Educational Requirement</th>"+
+  "<th>Skills Required</th>"+
+  "<th>Exp (yrs)</th>"+
+  "<th>Tools</th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>John Gude</td>"+
+    "<td>Chief Digital Officer</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
+    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
+    "<td>20+</td>"+
+    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td>Senior Data Scientist</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
+    "<td>GCP and GIT</td>"+
+    "<td>5+ years</td>"+
+    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Benjamin Turner</td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+    "<td></td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya Rood'e</td>"+
+    "<td>Software Developer</td>"+
+    "<td> Minimum of a bachelor in any software related field  </td>"+
+    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
+    "<td>Git, common languages </td>"+
+    "<td>4+ </td>"+
+    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
+"</tr>"+
+"<tr>"+
+"</table>"
+
 "<hr>"
 
 
@@ -170,6 +230,10 @@ export let tools =
 "<p>The Kangaroos Team used Microsoft Teams exclusively for all communications and Github for all file uploads. MS Teams has a SharePoint backend which supports file storage which was used to host all our communications. The links are shown below accordingly.</p>"+
 "<h3>Microsoft Teams</h3>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
+"<h2>GitHub Links</h2>" + 
+"<p><a href='https://github.com/JohnGude/kangaroos.github.io'>GitHub Repo</a> </p>"+
+"<p><a href='https://johngude.github.io/kangaroos.github.io'>GitHub Page</a> </p>"+
+
 "<h3>Meetings</h3>" + 
 "<table>"+
   "<tr>"+
@@ -189,7 +253,7 @@ export let tools =
   "<tr>"+
     "<td>30/12/2022</td>"+
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3973475_student_rmit_edu_au/EWEYWvnOem5EpRNCE7YWBLgBAa8i19fN1xyv_SQVF0zORA?e=a8hxmz'>Recording</a></td>"+
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
@@ -211,29 +275,7 @@ export let tools =
 
 
 
-"<h2>Microsoft Teams</h2>" + 
-"<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
 
-"<h2>Meeting Links</h2>" + 
-"<p>Meeting 23/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a> </p>"+
-
-"<p>Meeting 30/12/2022 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau-my.sharepoint.com/:v:/r/personal/s3973475_student_rmit_edu_au/Documents/Recordings/Kangaroos%20Meeting-20221230_183539-Meeting%20Recording.mp4?csf=1&web=1&e=7swAkK'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a> </p>"+
-
-"<p>Meeting 6/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a> </p>"+
-
-"<p>Meeting 10/1/2023 </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a> </p>"+
-"<p><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a> </p>"+
 
 "</div>"
 
@@ -303,65 +345,7 @@ export let industry_data =
 "<p>Burning Glass Technologies (2018) Labour Insight Jobs. Burning Glass Technologies </p>" +
 "<p>Labour Market Insights (2022) Industry Profiles. publication. Australian Government. Available at: https://labourmarketinsights.gov.au/industries/industry-profiles/ (Accessed: January 4, 2023). </p>" +
 
-"<hr>" +
-"<h2>Ideal Jobs Comparison Table</h2>" + 
-"<table>"+
-  "<tr>"+
-  "<th>Name</th>"+
-  "<th>Role</th>"+
-  "<th>Educational Requirement</th>"+
-  "<th>Skills Required</th>"+
-  "<th>Exp (yrs)</th>"+
-  "<th>Tools</th>"+
-  "<th>Analysis</th>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td>Chief Digital Officer</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
-    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
-    "<td>20+</td>"+
-    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Nicole Brooker</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Benjamin Turner</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-  "</tr>"+
-  "<tr>"+
-  "<td>Tarish Kapur</td>"+
-  "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-"</tr>"+
-"<tr>"+
-    "<td>Tatsuya Rood'e</td>"+
-    "<td>Software Developer</td>"+
-    "<td> Minimum of a bachelor in any software related field  </td>"+
-    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
-    "<td>Git, common languages </td>"+
-    "<td>4+ </td>"+
-    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
-"</tr>"+
-"<tr>"+
-"</table>"
+
 
 
 "<hr>"
