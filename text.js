@@ -221,8 +221,8 @@ export let kangaroo_team_profiles =
   "<th>Role</th>"+
   "<th>Educational Requirement</th>"+
   "<th>Skills Required</th>"+
-  "<th>Exp (yrs)</th>"+
   "<th>Tools</th>"+
+  "<th>Exp (yrs)</th>"+
   "<th>Analysis</th>"+
   "</tr>"+
   "<tr>"+
@@ -506,9 +506,24 @@ export let it_technologies =
 export let team_project =
 
 "<h1><i class='fa-solid fa-diagram-project fa-xl'></i> Team Project</h1>" + 
-"<h2>Project Name</h2>" +
-"<h4>Introduction</h4>" +
-"<p>text </p>"
+"<h2>The Curtesy Light</h2>" +
+"<h4>Overview</h4>" +
+"<p>This project idea is about a theoretical design called the Courtesy light. The Courtesy light is a small, simple, and sleek LED that displays “Thanks” or “Sorry” when activated by a simple press of a button mounted somewhere convenient in the driver’s seat compartment. Throughout the following report the project will discuss in detail about the individual aspects of the design, features, and software. In addition, the report will evaluate the feasibility and required skills to allow for this project to be a reality. Furthermore, the report will outline the impacts that the Courtesy light will create if it were to be introduced to the public.  </p>"+
+
+"<h4>Motivation</h4>" +
+"<p>Whether we like it or not almost every vehicle owner has at least once been the subject of road rage however, occasionally someone will show some courtesy on the road. Weather that be letting someone in or giving way or you may have left something on top of the car. Regardless of the situation we all get a sense of appreciation and think to ourselves I wish I could at least say ‘’Thanks/Sorry” to brighten up the fellow commuter’s day. In our current modern-day society, the use of cars has drastically expanded our capacity to travel. This is evident as according to pd.com.au, there are currently 1.446 billion cars on the road as of 2022. Therefore, this provides a vast extensive market for the use of a small, simple, and sleek LED that displays “Thanks” or “Sorry” when activated by a simple press of a button mounted somewhere convenient in the driver’s seat compartment.  </p>"+
+
+"<h4>Description</h4>" +
+"<p>The product LED “Thanks/Sorry” display can be called Courtesy light for short. The Courtesy light’s main two features is a LED display that will either display Sorry or Thanks. This will be activated using two simple buttons, one button will display Sorry and the other Thanks. The fundamental design of the Courtesy light is to keep it as simple as possible as it is important to not to overwhelm the driver with many features and buttons as this would lead to a safety hazard as it may be more of a distraction than a tool. Even though there are 1.446 billion cars, not all of these cars will be the same as there are numerous different cars manufactures with their own unique design. It is important that the Courtesy light has a universal installation method to allow the use of the LED light to operate in any vehicle. If the Courtesy light were only compatible with one specific car model this would drastically reduce the consumer market. A cheap and simple solution for this is for the use of Velcro. The buttons will be mounted with use of Velcro for easy and simple setup with the intention of user friendliness. The use of Velcro will allow the user to choose where the buttons will be setup for convince. Furthermore, as each car is different the use of the Velcro will allow universal compatibility with any car thus, anyone can use the product. Like the buttons the LED display will also use Velcro for the installation. The colour of the LED will be green. The colour green has been chosen as green generally represents a positive colour which will help further convey the message to the other drivers. In addition, green was chosen as it will not interfere with the existing lights on the vehicle. If the display were to be orange or red, it may be mistaken for a turn signal or break lights which would intern lead to a safety hazard to other drivers. When the display is activated, the display will be a static light. If the display were to have flashing lights or cool animations, it would present more of a distraction rather than a message. For this reason, once the button is pressed the message will only display for a short period of time to allow the other driver to recognize the message without impeding on the drivers focus. To further ensure safety the LED’s will be set to a minimum legible brightness to prevent excessive light pollution. However, one major drawback of the Courtesy light is that the language displayed is English. While English is one of the dominate languages in the world there are still many opportunities to expand the product such as the east. A solution to this would be to add a feature that would incorporate other languages into the display.  </p>"+
+
+"<h4>Tools and Technologies</h4>" +
+"<p>The aim of the Courtesy light was to keep the design as simple as possible, for this will allow for easy and cheap manufacturing. The hardware needed for the RGB light is either a raspberry pi or an Arduino Uno board. Either one of these will be sufficient to create a simple circuit to assemble the Courtesy light. In addition, the light will also require a generic breadboard, LED matrix, resistors, and jumper wires. The software required can be any software language. An example of such software’s can be python, atom.io or C+ just to name a few. With all these comments a basic version of the Courtesy light can be created.  </p>"+
+
+"<h4>Skills Required</h4>" +
+"<p>The hardware skills required for the required project would be to at least have basic knowledge of electrical circuits. The project will be using a raspberry pi or an Arduino Uno which requires basic knowledge of hardware to understand how these hardware’s operate and function. To obtain these skills you can either research and learn from an open source such as the internet or to take the relevant course through an education institute. The software aspect would be to have general knowledge in any programing language. The project requires code to be able to program what lights display and to program the buttons to activate for only a short period of time. These skills can be obtained through research from an open source or to study through an education institute such as a university.  </p>"+
+
+"<h4>Outcome</h4>" +
+"<p>If this project were successful many cars around the world would have installed the Courtesy light into their cars. Furthermore, if the project were successful many drivers around the world have theoretically diffused many road rage situations. An example might be that driver one has accidently cut off someone making the other driver two frustrated and on edge. However, if the driver one displays the “Sorry” LED, driver two will regionalize that it was an accident. By just showing a little courtesy on the roads everyday around the world it would lead to a much healthier environment on the public roads thus leading to less road rage and unnecessary toxicity. In Conclusion if the Courtesy light was introduced into the market, it would impact the number of road rage incidents occurring on public roads.  </p>"
 
 export let team_reflections =
 
