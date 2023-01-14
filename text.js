@@ -528,10 +528,17 @@ export let team_project =
 export let team_reflections =
 
 "<h1><i class='fa-solid fa-lightbulb fa-xl'></i> Team Reflections</h1>" + 
-"<h2>text</h2>" +
-"<h4>text</h4>" +
-"<p>text </p>"
-
+"<h2>Group Reflection</h2>" +
+"<h4>What went well?</h4>" +
+"<p>As a group of people with varying backgrounds who had never met before, we came together and collaborated very well to complete the assignment within the scheduled deadlines. Our organisation and time management were our strengths.</p>"+
+"<h4>What could be improved?</h4>" +
+"<p>Decision making on what the project would be could have been improved and decisions made earlier in the process. However, the feasibility of the project was an early concern to the group and made deciding on the project more complex. The group used a voting system to get the consensus based on 3 concept ideas. It was decided through that medium that simplicity would be advantageous to us in the later stages should the concept idea need building.</p>"+
+"<h4>At least one thing that was surprising?</h4>" +
+"<p>That the team didn’t require direct leadership. We all contributed effectively and were proactive on taking action to complete tasks that need doing rather than having someone assign tasks to them. This team was built on initiative and collective benefit which is unusual within a new group of people.</p>"+
+"<h4>At least one thing that you have learned about groups?</h4>" +
+"<p>People often play down or are not confident about their skills or what they can offer in group situations.</p>"+
+"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
+"<p>The team used MS Teams as their primary communication platform. Weekly meetings were set up  along with meeting agenda and minutes, however MS teams chats was used as required during the week for general conversations and updates. Git updates messages were reflective of the updates by the team and were easy to understand and track. However, due to the configuration of the webpage, most updates were text based for the assignment sections rather than coding level updates. Access to Git and GitHub and teams was provided to all members while recordings etc were located on SharePoint, MS Teams repository. Alignment of GitHub updates and tasks allocated to team members during meetings mirrored very closely</p>"
 
 export let contacts =
 
