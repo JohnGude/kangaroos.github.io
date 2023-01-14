@@ -245,12 +245,12 @@ export let kangaroo_team_profiles =
   "</tr>"+
   "<tr>"+
     "<td>Benjamin Turner</td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
-    "<td></td>"+
+    "<td>Data Engineer</td>"+
+    "<td>Bachelor or Master of computer science, data science, software engineering, bioinformatics or related fields</td>"+
+    "<td>Proficiency in the following languages: Python, R, SAS, SQL.</td>"+
+    "<td>Knowledge in data science and data visualisation packages, knowledge of cloud 		platforms (AWS in particular)</td>"+
+    "<td>Experience in data management processes and standards, experience handling and translating structured and unstructured data in a variety of settings (real world, lab, clinical)</td>"+
+    "<td>Senior position requiring many skills I have not yet obtained, will require 5+ years of industry experience and self-directed learning</td>"+
   "</tr>"+
   "<tr>"+
   "<td>Tarish Kapur</td>"+
