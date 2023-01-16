@@ -322,6 +322,20 @@ export let tools =
     "<td><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a></td>"+
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a></td>"+
     "<td>MS Teams</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>13/1/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EQk6Nq_N0SlGlUtRdDaK0AoBNBVasBWelJ3tkcGcSbanww?e=2UDsga'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EeRamPhiTfVKiDkRTJP-tRcBbHkBqZjAzScfblPyfOIhZA?e=cLXS1H'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EX2O97_x4ZZJnLdEMFQNXDABbN2axtngbjsUj3xF9gRjqw?e=awqbdr'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>17/1/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a></td>"+
+    "<td>MS Teams</td>"+
 "</tr>"+
 "</table>"
 
@@ -506,7 +520,7 @@ export let it_technologies =
 export let team_project =
 
 "<h1><i class='fa-solid fa-diagram-project fa-xl'></i> Team Project</h1>" + 
-"<h2>The Curtesy Light</h2>" +
+"<h2>The Courtesy Light</h2>" +
 "<h4>Overview</h4>" +
 "<p>This project idea is about a theoretical design called the Courtesy light. The Courtesy light is a small, simple, and sleek LED that displays “Thanks” or “Sorry” when activated by a simple press of a button mounted somewhere convenient in the driver’s seat compartment. Throughout the following report the project will discuss in detail about the individual aspects of the design, features, and software. In addition, the report will evaluate the feasibility and required skills to allow for this project to be a reality. Furthermore, the report will outline the impacts that the Courtesy light will create if it were to be introduced to the public.  </p>"+
 
