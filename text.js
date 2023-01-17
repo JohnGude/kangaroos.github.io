@@ -455,15 +455,15 @@ export let it_work =
 "<p>In his AV role, Rob claims a significant portion of his time is spent trying to troubleshoot and solve co-worker’s problems over the phone. It’s something that is not really discussed much about the industry but whilst trying to keep on top of daily tasks and client requests he says he is often sapped of time by needing to help others out remotely. It can become such a burden that in a question about removing one responsibility from his roles, the over-the-phone tech support part was the thing he would gladly see go. </p>"+
 "<p>Regarding the game server role, a majority of his time (when not overwhelmed by small bug fixes) is spent keeping up to date with the world of security, with a particular emphasis on the gaming industry and cheating. It is an ever-evolving threat that you can’t afford to fall victim to, especially as a small company. </p>"+
 
-"<h2>What are the most challenging aspects of the roles? </h2>" +
+"<h2>What are the most challenging aspects of the IT professional's roles? </h2>" +
 "<p>For both roles, the most challenging aspect is staying up to date with the newest technologies and threats. Work in the AV industry has its own set of challenges, adapting an installation to ensure it fits within a clients brief being chief among them. The true challenge here is not just staying within the budget but it is in trying to interpret what their vision is for the event, based off their limited technical perspective. From there, specifying the right equipment to get the job done becomes a whole lot simpler. </p>"+
 
 
-"<h2>What are the skills that you think everyone entering the IT industry should have, where would you begin if you had to start over? </h2>" +
+"<h2>What are the skills that the IT professional thinks everyone entering the IT industry should have, where would they begin if they had to start over? </h2>" +
 "<p>Rob said in his opinion, the soft skills around problem solving are what all people looking to enter the IT industry should look to pick up. Be it from programming to assessing security/data breaches, the ability to survey a problem from a broad perspective, discern where it is coming from, and take action to remedy it is invaluable. He used the example of programming where something as small as a simple syntax error in one line of code can create serious issues. </p>"+
 "<p>His advice around what aspects of IT he would suggest people focus on first was simple, start with what you want to do. Follow the path that interests you the most as he believes there is little to gain from studying something you’re not invested in emotionally. Try the thing that piques your interest, from there, you will find out whether you like it and if it is worth pursuing. </p>"+
 
-"<h2>In your opinion, what does the future look like for both your field, and IT as a whole? </h2>" +
+"<h2>In their opinion, what does the future look like for both the IT professional's field, and IT as a whole? </h2>" +
 "<p>Rob gave a pretty broad answer to this question, saying that it is hard to see for certain where the IT industry is headed. The pace of change is so rapid and access to gigabit internet so freely available that the only thing that is certain is that hardware will continue to get more powerful and more affordable. IT is becoming ever more ubiquitous in our everyday lives, so who knows what the future may hold? </p>"+
 
 
