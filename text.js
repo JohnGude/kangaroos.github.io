@@ -213,65 +213,7 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
-"<hr>" +
-"<h2>Ideal Jobs Comparison Table</h2>" + 
-"<table>"+
-  "<tr>"+
-  "<th>Name</th>"+
-  "<th>Role</th>"+
-  "<th>Educational Requirement</th>"+
-  "<th>Skills Required</th>"+
-  "<th>Tools</th>"+
-  "<th>Exp (yrs)</th>"+
-  "<th>Analysis</th>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td>Chief Digital Officer</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
-    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
-    "<td>20+</td>"+
-    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Nicole Brooker</td>"+
-    "<td>Senior Data Scientist</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
-    "<td>GCP and GIT</td>"+
-    "<td>5+ years</td>"+
-    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
-  "</tr>"+
-  "<tr>"+
-    "<td>Benjamin Turner</td>"+
-    "<td>Data Engineer</td>"+
-    "<td>Bachelor or Master of computer science, data science, software engineering, bioinformatics or related fields</td>"+
-    "<td>Proficiency in the following languages: Python, R, SAS, SQL</td>"+
-    "<td>Knowledge in data science and data visualisation packages, knowledge of cloud platforms (AWS in particular)</td>"+
-    "<td>Experience in data management processes and standards, experience handling and translating structured and unstructured data in a variety of settings (real world, lab, clinical)</td>"+
-    "<td>Senior position requiring many skills I have not yet obtained, will require 5+ years of industry experience and self-directed learning</td>"+
-  "</tr>"+
-  "<tr>"+
-  "<td>Tarish Kapur</td>"+
-  "<td>Security Analyst</td>"+
-    "<td>Standard certifications such as CISSP, CISA and CISM to list a few</td>"+
-    "<td>Understanding of Windows, UNIX, and Linux Operation Systems. Common languages</td>"+
-    "<td>Azure - Splunk and industry specific software</td>"+
-    "<td>2+ years </td>"+
-    "<td>Long-term plan to obtain the qualifications is to work on finishing this IT degree through while incrementally also adding industry-specific certifications to my resume</td>"+
-"</tr>"+
-"<tr>"+
-    "<td>Tatsuya Rood'e</td>"+
-    "<td>Software Developer</td>"+
-    "<td> Minimum of a bachelor in any software related field  </td>"+
-    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
-    "<td>Git, common languages </td>"+
-    "<td>4+ </td>"+
-    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
-"</tr>"+
-"<tr>"+
-"</table>"
+
 
 "<hr>"
 
@@ -432,7 +374,64 @@ export let industry_data =
 "<p>Burning Glass Technologies (2018) Labour Insight Jobs. Burning Glass Technologies </p>" +
 "<p>Labour Market Insights (2022) Industry Profiles. publication. Australian Government. Available at: https://labourmarketinsights.gov.au/industries/industry-profiles/ (Accessed: January 4, 2023). </p>" +
 
-
+"<h2>Ideal Jobs Comparison Table</h2>" + 
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Role</th>"+
+  "<th>Educational Requirement</th>"+
+  "<th>Skills Required</th>"+
+  "<th>Tools</th>"+
+  "<th>Exp (yrs)</th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>John Gude</td>"+
+    "<td>Chief Digital Officer</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
+    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
+    "<td>20+</td>"+
+    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td>Senior Data Scientist</td>"+
+    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
+    "<td>python, GCP, SQL, communication, problem solving, DevOps, teamwork</td>"+
+    "<td>GCP and GIT</td>"+
+    "<td>5+ years</td>"+
+    "<td>I need to work on these skills and get some work experience to meet the job requirements</td>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>Benjamin Turner</td>"+
+    "<td>Data Engineer</td>"+
+    "<td>Bachelor or Master of computer science, data science, software engineering, bioinformatics or related fields</td>"+
+    "<td>Proficiency in the following languages: Python, R, SAS, SQL</td>"+
+    "<td>Knowledge in data science and data visualisation packages, knowledge of cloud platforms (AWS in particular)</td>"+
+    "<td>Experience in data management processes and standards, experience handling and translating structured and unstructured data in a variety of settings (real world, lab, clinical)</td>"+
+    "<td>Senior position requiring many skills I have not yet obtained, will require 5+ years of industry experience and self-directed learning</td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td>Security Analyst</td>"+
+    "<td>Standard certifications such as CISSP, CISA and CISM to list a few</td>"+
+    "<td>Understanding of Windows, UNIX, and Linux Operation Systems. Common languages</td>"+
+    "<td>Azure - Splunk and industry specific software</td>"+
+    "<td>2+ years </td>"+
+    "<td>Long-term plan to obtain the qualifications is to work on finishing this IT degree through while incrementally also adding industry-specific certifications to my resume</td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya Rood'e</td>"+
+    "<td>Software Developer</td>"+
+    "<td> Minimum of a bachelor in any software related field  </td>"+
+    "<td>Net Framework, Net core, C# , Teamwork,  clear understanding of the product’s features, functions, and design. </td>"+
+    "<td>Git, common languages </td>"+
+    "<td>4+ </td>"+
+    "<td>Complete any Bachelor of Software related field, work experience and languages.</td>"+
+"</tr>"+
+"<tr>"+
+"</table>"+
 
 
 "<hr>"
@@ -562,7 +561,7 @@ export let team_project =
 
 "<h4>Tools and Technologies</h4>" +
 "<p>The aim of the Courtesy light was to keep the design as simple as possible, for this will allow for easy and cheap manufacturing. The image shown below is a basic circuit diagram of the Courtesy light. </p>" +
-"<img src='./CircuitDiagram.png' alt='CircuitDiagram' style='width:100%'></img>"+
+"<img src='./CircuitDiagram.png' alt='CircuitDiagram' id='img_fullsize'></img>"+
 "<p>This circuit demonstrates how the Courtesy light will operate and how the individual components and hardware are connected. The hardware needed for the RGB light is a Arduino Uno – R3, generic breadboard, 12V battery holder, LED matrix, resistors, push button, capacitor, voltage regulator, Bluetooth serial module and jumper wires. The software required can be any software language. An example of such software can be python, atom.io or C+ just to name a few. All the components listed can be seen in the labelled circuit diagram. With all these components a basic version of the Courtesy light can be created.</p>" +
 
 "<h4>Skills Required</h4>" +
