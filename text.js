@@ -611,16 +611,16 @@ export let team_reflections =
 
 "<h2>Benjamin Turner</h2>" +
 "<h4>What went well?</h4>" +
-"<p> </p>" +
+"<p>I feel the kangaroos team early on decided to divide up the tasks between members based on our skillsets and interest areas. This proved to be a good decision as it minimised friction between team members in terms of our contributions and ensured we all had a set of tasks to perform.</p>" +
 "<h4>What could be improved?</h4>" +
-"<p> </p>" +
+"<p>I think initially we were a bit reserved in terms of communication in Microsoft Teams and the meetings, but this got better once we began to get to know each other. We were also a bit hesitant in making group decisions regarding the project topic.</p>" +
 "<h4>At least one thing that was surprising?</h4>" +
-"<p> </p>" +
+"<p>I was honestly surprised at how open everyone was to help if other team members were having issues. I have worked in teams before where there was an expectation that we all made our contributions, but it was the burden of one or two to pick up the slack (nominated as editors or scribes for example), but here things have been very smooth with everyone working to their strengths.</p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
-"<p> </p>" +
+"<p>I have learnt the value of open discussion regarding updating team other team members on progress of our sections. It ensures all team members are on the same page or can make adjustments to the workload if need be. </p>" +
 "<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p> </p>" +
-
+"<p>I feel the GitHub activity log does not necessarily accurate trace of amount of work done by team members overall but it does show that we were all participating. Whether individuals decided to add their contributions in large batches, in a series of small commits, or had others upload their sections, the logs can make it seem like some team members did significantly more work than the others which is not the case.</p>" +
+"<p>That said the group meeting discussion and meeting minutes documents are a closer reflection to how the work was divided amongst team members. We were quite active in the message forums within Microsoft Teams as well as regularly uploading our work into a shared template document and later a shared document for submission.</p>" +
 "<hr>"+
 
 "<h2>Tarish Kapur</h2>" +
