@@ -441,6 +441,7 @@ export let industry_data =
 export let it_work = 
 
 "<h1><i class='fa-solid fa-laptop' fa-xl></i> IT Work</h1>" + 
+"<p><a href='https://rmiteduau.sharepoint.com/:v:/s/Temp198/ETgYWyMcEdBNqCMixaHQHlsByqE1pD3HS52_E61S2DLK7g?e=iGOaQg'>SharePoint Interview Link</a> </p>"+
 
 "<h2>What kind of work is done by the IT professional?</h2>" +
 "<p>The IT professional interviewed was Robert O’Brien. He works across in an IT tech role at an audio-visual company and in his spare time works on maintaining a private game server with around 4500 subscribed users. </p>"+
