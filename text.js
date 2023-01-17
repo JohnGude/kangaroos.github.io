@@ -552,6 +552,10 @@ export let team_reflections =
 
 "<h1><i class='fa-solid fa-lightbulb fa-xl'></i> Team Reflections</h1>" + 
 "<h2>Group Reflection</h2>" +
+
+"<hr>"+
+
+"<h2>John Gude</h2>" +
 "<h4>What went well?</h4>" +
 "<p>As a group of people with varying backgrounds who had never met before, we came together and collaborated very well to complete the assignment within the scheduled deadlines. Our organisation and time management were our strengths.</p>"+
 "<h4>What could be improved?</h4>" +
@@ -561,7 +565,64 @@ export let team_reflections =
 "<h4>At least one thing that you have learned about groups?</h4>" +
 "<p>People often play down or are not confident about their skills or what they can offer in group situations.</p>"+
 "<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>The team used MS Teams as their primary communication platform. Weekly meetings were set up  along with meeting agenda and minutes, however MS teams chats was used as required during the week for general conversations and updates. Git updates messages were reflective of the updates by the team and were easy to understand and track. However, due to the configuration of the webpage, most updates were text based for the assignment sections rather than coding level updates. Access to Git and GitHub and teams was provided to all members while recordings etc were located on SharePoint, MS Teams repository. Alignment of GitHub updates and tasks allocated to team members during meetings mirrored very closely</p>"
+"<p>The team used MS Teams as their primary communication platform. Weekly meetings were set up  along with meeting agenda and minutes, however MS teams chats was used as required during the week for general conversations and updates. Git updates messages were reflective of the updates by the team and were easy to understand and track. However, due to the configuration of the webpage, most updates were text based for the assignment sections rather than coding level updates. Access to Git and GitHub and teams was provided to all members while recordings etc were located on SharePoint, MS Teams repository. Alignment of GitHub updates and tasks allocated to team members during meetings mirrored very closely</p>" +
+
+"<hr>"+
+
+"<h2>Nicole Brooker</h2>" +
+"<h4>What went well?</h4>" +
+"<p> </p>" +
+"<h4>What could be improved?</h4>" +
+"<p> </p>" +
+"<h4>At least one thing that was surprising?</h4>" +
+"<p> </p>" +
+"<h4>At least one thing that you have learned about groups?</h4>" +
+"<p> </p>" +
+"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
+"<p> </p>" +
+
+"<hr>"+
+
+"<h2>Benjamin Turner</h2>" +
+"<h4>What went well?</h4>" +
+"<p> </p>" +
+"<h4>What could be improved?</h4>" +
+"<p> </p>" +
+"<h4>At least one thing that was surprising?</h4>" +
+"<p> </p>" +
+"<h4>At least one thing that you have learned about groups?</h4>" +
+"<p> </p>" +
+"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
+"<p> </p>" +
+
+"<hr>"+
+
+"<h2>Tarish Kapur</h2>" +
+"<h4>What went well?</h4>" +
+"<p> The team was able to come together effectively and establish clear goals and objectives for the assignment. Through effective communication among team members, they were able to understand the tasks assigned to them after the first meeting.</p>" +
+"<h4>What could be improved?</h4>" +
+"<p>The team performed exceptionally well and there were no major issues to be addressed. However, one suggestion for improvement would be in the decision-making process when selecting the group project. Initially, there was some uncertainty among the team, but they ultimately decided to use a voting poll to make the final decision. </p>" +
+"<h4>At least one thing that was surprising?</h4>" +
+"<p>The team's organisation was a surprise to me. From the setup of GitHub pages to the structured meeting agendas, and the proactive attitude of each team member in completing assigned tasks. Additionally, the team's technical knowledge, particularly in coding and setting up GitHub pages was instrumental in the successful setup of the website. </p>" +
+"<h4>At least one thing that you have learned about groups?</h4>" +
+"<p>Clear communication and organisation are vital components for the success of any group. They can determine the effectiveness of the group's performance. </p>" +
+"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
+"<p> The team found the GitHub log to be user-friendly, and several members were proficient in its use. This made it easy to resolve any issues that arose during the assignment. </p>" +
+
+"<hr>"+
+
+"<h2>Tatsuya Rood'e</h2>" +
+"<h4>What went well?</h4>" +
+"<p> I believe that our team “Kangaroos” is well organized and structured to accomplish our end goal as a team. The team has organized meetings, scheduled every week to allow us to assign and discuss certain topics about our assignment.  We have assigned roles that best suit to everyone’s strengths and weaknesses to efficiently contribute to our assignment.</p>" +
+"<h4>What could be improved?</h4>" +
+"<p>The team as a whole is dedicated and well organised with little room for improvement however, an area that I could have improved on would be my website development skills so I could have contributed more towards the development of the website. </p>" +
+"<h4>At least one thing that was surprising?</h4>" +
+"<p>One thing that surprised me was the diversity of our group members and how we were able to work coherently as a team to accomplish our end goal. </p>" +
+"<h4>At least one thing that you have learned about groups?</h4>" +
+"<p>I have learned that when working as a team we are able to overcome any challenges when we help and learn from each other as a team. </p>" +
+"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
+"<p>It is evident that the whole team is contributing towards our assignment as we have a record of our teams Github log. By observing the activity log on Github we can see all members of the team have contributed within a week. This reassures that our team is working together to accomplish our end goal.   </p>" 
+
 
 export let contacts =
 
