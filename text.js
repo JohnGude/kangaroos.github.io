@@ -441,7 +441,31 @@ export let industry_data =
 export let it_work = 
 
 "<h1><i class='fa-solid fa-laptop' fa-xl></i> IT Work</h1>" + 
-"<p> Text Here </p>"+
+
+"<h2>What kind of work is done by the IT professional?</h2>" +
+"<p>The IT professional interviewed was Robert O’Brien. He works across in an IT tech role at an audio-visual company and in his spare time works on maintaining a private game server with around 4500 subscribed users. </p>"+
+"<p>Within his role in the AV industry, he does a lot of backend work, maintaining networks for a variety of venues/event spaces across Melbourne, managing and programming the automation of sound, vision and lighting systems through programs such as Q-Sys. Another prominent role of his is the setup and hosting of web streams for virtual events, as well as the subsequent management of the cloud-based servers used to store and transfer event-related files and recordings. </p>"+
+"<p>In his other project, the gaming servers, he is a jack-of-all-trades, doing a little bit of everything to ensure the smooth running of this “24-hour operation”. From working on game updates, responding to customer queries, and responding to cyber-security threats. Across the two jobs, there is no such thing as a “normal” day. </p>"+
+
+"<h2>What kind of people does the IT professional interact with? </h2>" +
+"<p>According to Rob he deals with a vast, diverse group of people on a daily basis. When discussing the AV industry he mentioned the obvious, the other members of the IT team and managements, there are the also the other coworkers who may be for example riggers or lighting techs, the venue staff who maintain the event spaces and their other associated contractors, the event talent (especially on the online events that he primarily oversees), and the clients may be anybody from high-end corporate events managers to wedding planners or the couple’s themselves. </p>"+
+"<p>In regards to the game server, the main population (besides other team members) would be the players themselves. Most the other interactions being between himself and other IT professionals working in cyber-security and server management. This is because data collection and session hosting are handled on a private data centre (provided to cyber-security firms when needed) and the game server infrastructure is provided through Microsoft’s IaaS platform, Azure</p>"+
+
+"<h2>How is most of the IT professional’s time spent? </h2>" +
+"<p>In his AV role, Rob claims a significant portion of his time is spent trying to troubleshoot and solve co-worker’s problems over the phone. It’s something that is not really discussed much about the industry but whilst trying to keep on top of daily tasks and client requests he says he is often sapped of time by needing to help others out remotely. It can become such a burden that in a question about removing one responsibility from his roles, the over-the-phone tech support part was the thing he would gladly see go. </p>"+
+"<p>Regarding the game server role, a majority of his time (when not overwhelmed by small bug fixes) is spent keeping up to date with the world of security, with a particular emphasis on the gaming industry and cheating. It is an ever-evolving threat that you can’t afford to fall victim to, especially as a small company. </p>"+
+
+"<h2>What are the most challenging aspects of the roles? </h2>" +
+"<p>For both roles, the most challenging aspect is staying up to date with the newest technologies and threats. Work in the AV industry has its own set of challenges, adapting an installation to ensure it fits within a clients brief being chief among them. The true challenge here is not just staying within the budget but it is in trying to interpret what their vision is for the event, based off their limited technical perspective. From there, specifying the right equipment to get the job done becomes a whole lot simpler. </p>"+
+
+
+"<h2>What are the skills that you think everyone entering the IT industry should have, where would you begin if you had to start over? </h2>" +
+"<p>Rob said in his opinion, the soft skills around problem solving are what all people looking to enter the IT industry should look to pick up. Be it from programming to assessing security/data breaches, the ability to survey a problem from a broad perspective, discern where it is coming from, and take action to remedy it is invaluable. He used the example of programming where something as small as a simple syntax error in one line of code can create serious issues. </p>"+
+"<p>His advice around what aspects of IT he would suggest people focus on first was simple, start with what you want to do. Follow the path that interests you the most as he believes there is little to gain from studying something you’re not invested in emotionally. Try the thing that piques your interest, from there, you will find out whether you like it and if it is worth pursuing. </p>"+
+
+"<h2>In your opinion, what does the future look like for both your field, and IT as a whole? </h2>" +
+"<p>Rob gave a pretty broad answer to this question, saying that it is hard to see for certain where the IT industry is headed. The pace of change is so rapid and access to gigabit internet so freely available that the only thing that is certain is that hardware will continue to get more powerful and more affordable. IT is becoming ever more ubiquitous in our everyday lives, so who knows what the future may hold? </p>"+
+
 
 "<hr>"
 
@@ -546,7 +570,9 @@ export let team_project =
 "<h4>Outcome</h4>" +
 "<p>If this project were successful many cars around the world would have installed The Courtesy light into their cars. Furthermore, if the project were successful many drivers around the world would have theoretically diffused many road rage situations. An example might be that driver one has accidentally cut off someone making the other driver two frustrated and on edge. However, if driver one displays the “Sorry” LED, driver two will regionalize that it was an accident. By just showing a little courtesy on the roads every day around the world it would lead to a much healthier environment on the public roads thus leading to less road rage and unnecessary toxicity. In Conclusion if the Courtesy light was introduced into the market, it would impact the number of road rage incidents occurring on public roads.   </p>" +
 "<p>Kemp.A(2022)How many cars are there in the world?,pd.com.au, accessed 16 December 	2022. https://www.pd.com.au/blogs/how-many-cars-in-the-world/  </p>" +
-"<p>Budget Direct(2021)Australian road rage survey & statistics 2021,Budget Direct, accessed 	on 17 January 2023. https://www.budgetdirect.com.au/car-insurance/research/road-	rage-study.html </p>" 
+"<p>Budget Direct(2021)Australian road rage survey & statistics 2021,Budget Direct, accessed 	on 17 January 2023. https://www.budgetdirect.com.au/car-insurance/research/road-	rage-study.html </p>" +
+
+"<hr>"
 
 export let team_reflections =
 
@@ -621,8 +647,8 @@ export let team_reflections =
 "<h4>At least one thing that you have learned about groups?</h4>" +
 "<p>I have learned that when working as a team we are able to overcome any challenges when we help and learn from each other as a team. </p>" +
 "<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>It is evident that the whole team is contributing towards our assignment as we have a record of our teams Github log. By observing the activity log on Github we can see all members of the team have contributed within a week. This reassures that our team is working together to accomplish our end goal.   </p>" 
-
+"<p>It is evident that the whole team is contributing towards our assignment as we have a record of our teams Github log. By observing the activity log on Github we can see all members of the team have contributed within a week. This reassures that our team is working together to accomplish our end goal.   </p>" +
+"<hr>"
 
 export let contacts =
 
